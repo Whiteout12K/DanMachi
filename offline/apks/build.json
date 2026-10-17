@@ -1,0 +1,138 @@
+{
+  "source_sha256": "f783eeca9db7e690f82f4995fd831d6b8f1066f7954efabce0fb379d95affe82",
+  "reference": "https://github.com/MadlyMoe/DanMemoRe",
+  "package": "com.eu.danmore",
+  "apks": [
+    {
+      "file": "com.eu.danmemo.apk",
+      "sha256": "2b77d83ce6444b8e163b723c39e3abf7abeb1ac6367ae20f709bb478fd3b5e55",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "558f6e16cbeac16fb78199097fbf0a82da24f63a9c6bfbb665ca4d493f38972d",
+          "after_sha256": "75af293d9cbdcfd1d071f6e27097c1aeddc0f5e2b3a68e0015559166755b6790"
+        },
+        {
+          "member": "classes.dex",
+          "before_sha256": "42871768094d76ce3558ed56b1891a681caf7c4775e551b74d1532d87efc6f46",
+          "after_sha256": "e655acb6caf28003ea51d6051f7ec86ea83183b71b7295005555a37b30aee552"
+        },
+        {
+          "member": "classes2.dex",
+          "before_sha256": "5990e0f5d17115d6db764cec9558c35cc0823b0535bf3a54ef56c2d26ed46f58",
+          "after_sha256": "4e5844599ae981ff66ae25610284f55f87c80668075dc6aa3773262632eda51e"
+        },
+        {
+          "member": "classes3.dex",
+          "before_sha256": "1769178715e7646dedd0436e9e18d6a3484cf79d7a351fd2f18adfc170963e82",
+          "after_sha256": "7aa7f986d88af8d03e60802ed1573fae61f7a093c0ab2c01c701e510f7eed678"
+        },
+        {
+          "member": "resources.arsc",
+          "before_sha256": "9696ec520fa8eed0c96d2d897fdcdf9c383c934856db689acdc120b46f9b7a89",
+          "after_sha256": "b6c02dccfc39b27c1ba4465acf66940cd4368d538721d03b34b5667e222dd0e5"
+        }
+      ]
+    },
+    {
+      "file": "config.arm64_v8a.apk",
+      "sha256": "e20d782dc9e603b714407155fc77c987a021c0c7bdeabccf6d4cf37c6b6d1295",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "04c4c056d1613c29cf445d956a5dd263be98c4f100e6efe02e6d9fb24ce5b39b",
+          "after_sha256": "e52e7e716941a0696455b53ec9614a950097b10a526f970eb1edca62eed3db39"
+        },
+        {
+          "member": "lib/arm64-v8a/libapp.so",
+          "before_sha256": "e49a8cc7991f8946365a28aebad605ce566b034826dd4b34a982ab18b38303b3",
+          "after_sha256": "d4e482b2925aa0b9aad8fd70afc7e26fdcba79ead296c1cb71072279bc6fa246"
+        }
+      ]
+    },
+    {
+      "file": "config.en.apk",
+      "sha256": "4ec5dd99070e2f265ad3da16288db02d1b80deac420fd7ec6f3984468e5d2637",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "406b933b2b3ba57c9e68fd94d612b6f8f38f6e85006b3968a2206ca54b031479",
+          "after_sha256": "fc2a02f0b7e0adb6e058802fe8bf059507a4f4ebcb8d43eb12579b161e9bcb95"
+        },
+        {
+          "member": "resources.arsc",
+          "before_sha256": "75f007b54eb96f29878ee9f5c9113fe2f623a424578589135f114ac7c7d3675a",
+          "after_sha256": "765cbc9f09e597325e07c44753ef5cbfdaf370dbe5d3aa638841d46c564c861d"
+        }
+      ]
+    },
+    {
+      "file": "config.fr.apk",
+      "sha256": "f7d1b27cbde9515ff0084da952fac4a7f0ee3a6e9df8c1bf22f5b401759a2278",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "8c80d68eed1b7321a9269ee572854478d3bf91a75489450e414e959b629e7308",
+          "after_sha256": "04cc0a2b3f319f1c6699ed347a8c6551a7e2f19b8b219c1faec0216e11ca84e6"
+        },
+        {
+          "member": "resources.arsc",
+          "before_sha256": "6adcd1b960e59608ab74f909b2716ffd7d465b8c886fb66624166bab4d7e63e5",
+          "after_sha256": "7aedc110181f661420b364f3796e1aa5aed93eec5e8b4c507db973004ca1f805"
+        }
+      ]
+    },
+    {
+      "file": "config.mdpi.apk",
+      "sha256": "252f2bb0ecef88edcbde950bfe22e836e9b14c63a2453e3fcc3da77410320d68",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "a87583d29da915354e4ff21a70b2d303a713aca13138a85214f170c4b6244d8d",
+          "after_sha256": "1d1ed43e0bce1e19fc99ce35f9bc94a9d73facb3970b5a690bd3d5b4872f364c"
+        },
+        {
+          "member": "resources.arsc",
+          "before_sha256": "1001873b638251d68b7c71bb497f77e0cf1a88d11d3f8614190446d5daae18d2",
+          "after_sha256": "146fcf3f056aff7aead591dbfc258c8e7eb64d3c57277d0a046b4f6a6e1bc985"
+        }
+      ]
+    },
+    {
+      "file": "AssetPack1.apk",
+      "sha256": "18509645c1474525e26990879849ad3579e7ca81cf7b0aa8978e1aeceb071367",
+      "signer": "ba4fad5f7883cef8376eed05977dc9acae4255f09203a9938594fbf2d4e8ffbb",
+      "changes": [
+        {
+          "member": "AndroidManifest.xml",
+          "before_sha256": "9a9e3e234414c05775bf84681286712719d34dc463c0b74abe04a99e4cfc4fee",
+          "after_sha256": "4730f2ebc2cc856faf15def5915adf4974d31d665cee3b316fa1e759adeade79"
+        }
+      ]
+    }
+  ],
+  "gameplay_verified": false,
+  "external_assets": {
+    "version": 1,
+    "transport": "loopback-zip-to-memfd",
+    "library_sha256": "d8e9bcf24eff4ca24bf49602db14b0269d9842be94bbe0f2c9a66c8b269f682b",
+    "saves": "unchanged Android private paths"
+  },
+  "render_frame_limit": 30,
+  "offline_menu": {
+    "version": 1,
+    "modified_methods": [
+      "Cocos2dxHelper.openURL",
+      "Cocos2dxWebViewHelper.loadUrl"
+    ],
+    "behavior": "External links show local guidance; external WebViews redirect to local pages; native libapp.so unchanged.",
+    "policy_source": "https://www.wfs.games/en/eu/policies/danmemo_google.html",
+    "policy_retrieved": "2026-10-12",
+    "policy_catalog_sha256": "c8e3ea5b17b494aa329b4068c79bd3d865e22d5a86120b12e4edc4bc93d84a16"
+  }
+}

@@ -1,0 +1,25 @@
+[WFS ASSERT-FAILED] not found itemType [itemTypeLabel] [item_type.limit_break_item] in /tmp/j99518/../../../source/Domain/ItemType/DomainItemTypeRepository.cpp get() L77
+[WFS ASSERT-FAILED] setupMemberChanged: memberCount == 0 in /tmp/j99518/../../../source/Field/PartyController.cpp setupMemberChanged() L237
+[WFS ASSERT-FAILED] setupMemberChanged: memberCount == 0 in /tmp/j99518/../../../source/Field/PartyController.cpp setupMemberChanged() L237
+[WFS ASSERT-FAILED] setupMemberChanged: memberCount == 0 in /tmp/j99518/../../../source/Field/PartyController.cpp setupMemberChanged() L237
+[WFS ASSERT-FAILED] setupMemberChanged: memberCount == 0 in /tmp/j99518/../../../source/Field/PartyController.cpp setupMemberChanged() L237
+[WFS ASSERT-FAILED] 有効なlotteryがありません. [アプリ内時間] [1791859857] in /tmp/j99518/../../../app/argo/UI/Home/Lottery/Top/ArgoLotteryTopLayer.cpp init() L108
+[WFS ASSERT-FAILED] 有効なlotteryがありません. [アプリ内時間] [1791859913] in /tmp/j99518/../../../app/argo/UI/Home/Lottery/Top/ArgoLotteryTopLayer.cpp init() L108
+[WFS ASSERT-FAILED] MasterUtils::getBinOrBundledBinPath: novelCommand751040548.enc not found in /tmp/j99518/../../../source/Infra/DB/MasterUtils.cpp getBinOrBundledBinPath() L80
+[WFS ASSERT-FAILED] MasterUtils::getBinOrBundledBinPath: novelCommand751040548.enc not found in /tmp/j99518/../../../source/Infra/DB/MasterUtils.cpp getBinOrBundledBinPath() L80
+[WFS ASSERT-FAILED] invalid LayoutLoader key name or file not found home_other_modal_expired in /tmp/j99518/../../../source/UI/Base/UITextureAtlasLoader.cpp getLayoutLoaderJsonPath() L175
+[WFS ASSERT-FAILED] MasterUtils::getBinOrBundledBinPath: novelCommand751040548.enc not found in /tmp/j99518/../../../source/Infra/DB/MasterUtils.cpp getBinOrBundledBinPath() L80
+[WFS FATAL] eventBox not found. [label] [event_box.193000088] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000059] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000059] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS ASSERT-FAILED] not found shop [shopLabel] [shop.story_event_113] in /tmp/j99518/../../../source/Domain/Shop/DomainShopRepository.cpp get() L110
+[WFS FATAL] eventBox not found. [label] [event_box.193000090] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000088] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000057] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS ASSERT-FAILED] setupMemberChanged: memberCount == 0 in /tmp/j99518/../../../source/Field/PartyController.cpp setupMemberChanged() L237
+[WFS FATAL] eventBox not found. [label] [event_box.193000075] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000090] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS FATAL] eventBox not found. [label] [event_box.193000076] in /tmp/j99518/../../../source/Domain/EventBox/DomainEventBoxRepository.cpp get() L159
+[WFS ASSERT-FAILED] not found item [itemLabel] [] in /tmp/j99518/../../../source/Domain/Item/DomainItemRepository.cpp get() L249
+[WFS ASSERT-FAILED] not found item [itemId] [1201000005] in /tmp/j99518/../../../source/Domain/Item/DomainItemRepository.cpp get() L242
+[WFS ASSERT-FAILED] PC was not found for given pcId: (101000001) in /tmp/j99518/../../../source/Domain/Character/CharacterUtils.cpp getCharacterOrNull() L29

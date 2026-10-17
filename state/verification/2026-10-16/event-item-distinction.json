@@ -1,0 +1,19 @@
+{
+  "eventItems": 781,
+  "addedPathsByKind": {
+    "distinct-fallback": 1174,
+    "same-name": 260
+  },
+  "originalShopGroups": 141,
+  "shopCurrencyImageCollisions": 0,
+  "variants": [
+    "frame",
+    "noframe"
+  ],
+  "originalArtworkPreserved": true,
+  "fallbackDescription": "Distinct retained artwork substitutes; not recovered historical artwork",
+  "tests": "14 event checks passed; focused feature suites total 64 passed",
+  "nativeVerification": "Real Averies save reopened at Home. New substitute icons not verified in event UI: CUA screenshots work but coordinate clicks repeatedly return noWindowsAvailable.",
+  "aliasFamiliesWithMultipleItems": 60,
+  "aliasFamilyImageCollisions": 0
+}

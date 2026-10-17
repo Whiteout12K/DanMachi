@@ -1,0 +1,60 @@
+{
+  "realSaveBeforeQA": "661771ea419da54435a822e957c2eeded1b7c4765f009131eecf9d5ad6fc1333",
+  "grandDay": {
+    "stage": 1160000101102,
+    "state": 4,
+    "clearCount": 1,
+    "operation": 100000065,
+    "acknowledged": true
+  },
+  "focusedTestsPassed": 53,
+  "bundleIntegrityPassed": true,
+  "nativeTicketQA": {
+    "banner": 171002222,
+    "operation": 400000012,
+    "acknowledged": true,
+    "ticketBefore": 1,
+    "ticketAfter": 0,
+    "pickedPcId": 1011067001,
+    "rarity": 4
+  },
+  "nativeBoxQA": {
+    "box": 193000013,
+    "operation": 500000001,
+    "acknowledged": true,
+    "medalsBefore": 100,
+    "medalsAfter": 90,
+    "reward": {
+      "itemId": 241000046,
+      "amount": 3
+    },
+    "inventoryRows": [
+      [
+        "UserKeyItem",
+        {
+          "amount": 3,
+          "bookEntryState": 3,
+          "cumulativeAmount": 3,
+          "exploit": false,
+          "keyItemId": 241000046,
+          "reservedAmount": 0,
+          "signature": 500000001,
+          "userId": 1000000001
+        }
+      ]
+    ],
+    "resultScreenObserved": true,
+    "resetControlReturnedWithoutError": true
+  },
+  "realSaveAfterQA": "661771ea419da54435a822e957c2eeded1b7c4765f009131eecf9d5ad6fc1333",
+  "realSaveUnchangedDuringQA": true,
+  "qaCopyRemoved": true,
+  "realGameReopened": true,
+  "realAccountNameConfirmed": true,
+  "focusedSuiteExitCode": 0,
+  "storyStageSelectFrameObserved": {
+    "episode": 7010000103,
+    "upright": true,
+    "fullPlaybackCertified": false
+  }
+}

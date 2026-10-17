@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>org.macapk.location</string>
+    <key>CFBundleName</key><string>Mac.apk Location</string>
+    <key>CFBundleDisplayName</key><string>Mac.apk Location</string>
+    <key>CFBundleExecutable</key><string>macapk-location</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>26.4</string>
+    <key>LSUIElement</key><true/>
+    <key>NSLocationWhenInUseUsageDescription</key><string>Android apps running in Mac.apk use your location through this. Each app also asks you separately, and only the apps you allow get it.</string>
+    <key>NSLocationUsageDescription</key><string>Android apps running in Mac.apk use your location through this. Each app also asks you separately, and only the apps you allow get it.</string>
+</dict>
+</plist>

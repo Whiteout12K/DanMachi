@@ -1,0 +1,27 @@
+{
+  "feature": "Grand Day initial location rendering",
+  "episodeId": 7160000101,
+  "entryStageId": 1160000101102,
+  "entryMapPage": 1,
+  "nativeSha256": "b4d4a14b2884fde79af302c0f77f7a7f0dac99982964dd5c5469b3b301c8e9ce",
+  "nativeUiVerified": {
+    "freshEntry": true,
+    "orarioBackgroundAndSidebar": true,
+    "eventItemCounters": true,
+    "normalHardVeryHard": true,
+    "backToEventLineup": true,
+    "reentryWithoutBattle": true,
+    "eventGachaOpenAndReturnWithoutDraw": true
+  },
+  "preserved": [
+    "original APKs and archive media",
+    "original map, stage, unlock and reward records",
+    "unrelated compatibility patches"
+  ],
+  "diagnosticBattle": {
+    "stageId": 1160000101102,
+    "normalStaminaCost": 4,
+    "manuallyGrantedRewards": false
+  },
+  "limitation": "The missing full event_map overview is not reconstructed."
+}

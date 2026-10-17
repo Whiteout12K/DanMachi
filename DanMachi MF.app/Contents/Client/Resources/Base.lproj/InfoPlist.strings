@@ -1,0 +1,3 @@
+/* Mac.apk: the Android label, shown by LaunchServices while the bundle file keeps its unique name. See BundleDisplayName. */
+"CFBundleDisplayName" = "DanMemoRe";
+"CFBundleName" = "DanMemoRe";

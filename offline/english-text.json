@@ -1,0 +1,2125 @@
+{
+  "version": 1,
+  "description": "English display translations and descriptive labels; original IDs, aliases, pools and audio are unchanged.",
+  "tables": {
+    "lottery": {
+      "171000015": {
+        "2": "Summer Night Test of Courage Gacha"
+      },
+      "171000017": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Summer Night Test of Courage Gacha"
+      },
+      "171000018": {
+        "2": "[Free] 11 Draw 4-Star Guaranteed Summer Night Test of Courage Gacha"
+      },
+      "171000022": {
+        "2": "Port Town Swimsuit Journey Gacha Summer"
+      },
+      "171000023": {
+        "2": "Port Town Swimsuit Journey Gacha Sea"
+      },
+      "171000024": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Port Town Swimsuit Journey Gacha Summer  / Sea"
+      },
+      "171000025": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Port Town Swimsuit Journey Gacha Summer"
+      },
+      "171000026": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Port Town Swimsuit Journey Gacha Sea"
+      },
+      "171000030": {
+        "2": "4-Star Guaranteed Port Town Swimsuit Journey Ticket Gacha Summer"
+      },
+      "171000031": {
+        "2": "4-Star Guaranteed Port Town Swimsuit Journey Ticket Gacha Sea"
+      },
+      "171000040": {
+        "2": "Enchanting Dancer Gacha"
+      },
+      "171000041": {
+        "2": "Orario Halloween Gacha Trick"
+      },
+      "171000042": {
+        "2": "Orario Halloween Gacha Treat"
+      },
+      "171000043": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Orario Halloween Gacha Trick or Treat"
+      },
+      "171000044": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Orario Halloween Gacha Trick"
+      },
+      "171000045": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Orario Halloween Gacha Treat"
+      },
+      "171000046": {
+        "2": "Bashful Lefiya Featured Gacha"
+      },
+      "171000047": {
+        "2": "Battlefield Saint Gacha"
+      },
+      "171000050": {
+        "2": "Anya and Chloe Detective Agency Gacha Cunning Detective"
+      },
+      "171000051": {
+        "2": "Anya and Chloe Detective Agency Gacha Cat Detective"
+      },
+      "171000052": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Anya and Chloe Detective Agency Gacha"
+      },
+      "171000053": {
+        "2": "Heroic Trial Featured Gacha Tuxedo Finn"
+      },
+      "171000054": {
+        "2": "Guild God and the Mysterious Mage Gacha"
+      },
+      "171000055": {
+        "2": "Holy Night Panic Gacha Merry Christmas"
+      },
+      "171000056": {
+        "2": "Holy Night Panic Gacha Happy Christmas"
+      },
+      "171000057": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Holy Night Panic Gacha Merry Christmas"
+      },
+      "171000058": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Holy Night Panic Gacha Happy Christmas"
+      },
+      "171000059": {
+        "2": "Interaction Featured Gacha Unconstrained Hephaistos"
+      },
+      "171000060": {
+        "2": "Heroic Trial Featured Gacha Cat Lancer Anya"
+      },
+      "171000061": {
+        "2": "New Year Adventure Gacha Fortune"
+      },
+      "171000062": {
+        "2": "New Year Adventure Gacha Longevity"
+      },
+      "171000063": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed New Year Adventure Gacha Fortune and Longevity"
+      },
+      "171000064": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed New Year Adventure Gacha Fortune"
+      },
+      "171000065": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed New Year Adventure Gacha Longevity"
+      },
+      "171000066": {
+        "2": "Heroic Trial Featured Gacha White Healer Amid"
+      },
+      "171000067": {
+        "2": "Holy Night Panic Merry Christmas 4-Star Guaranteed Ticket Gacha"
+      },
+      "171000068": {
+        "2": "Holy Night Panic Happy Christmas 4-Star Guaranteed Ticket Gacha"
+      },
+      "171000075": {
+        "2": "New Year Featured Gacha"
+      },
+      "171000076": {
+        "2": "Oradio Z Selection Gacha Part 1"
+      },
+      "171000079": {
+        "2": "Heroic Trial Featured Gacha Cunning Detective Chloe"
+      },
+      "171000080": {
+        "2": "Orario Academy Gacha Class 2"
+      },
+      "171000081": {
+        "2": "Orario Academy Gacha Class 1 &Class 2"
+      },
+      "171000082": {
+        "2": "Lucky Shrine Maiden and Divine Club Gacha"
+      },
+      "171000083": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Lucky Shrine Maiden and Divine Club Gacha"
+      },
+      "171000084": {
+        "2": "Chocolate Rhapsody Gacha Cocoa"
+      },
+      "171000085": {
+        "2": "Chocolate Rhapsody Gacha Sweet"
+      },
+      "171000086": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Chocolate Rhapsody Gacha Adventurer 1"
+      },
+      "171000087": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Chocolate Rhapsody Gacha Assist"
+      },
+      "171000088": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Chocolate Rhapsody Gacha Adventurer 2"
+      },
+      "171000089": {
+        "2": "Assist Featured Gacha Ouranos"
+      },
+      "171000090": {
+        "2": "Adventurer Featured Gacha Fels"
+      },
+      "171000091": {
+        "2": "Master Smith Warrior Gacha"
+      },
+      "171000092": {
+        "2": "Is It Wrong to Seek Hot Springs in a Dungeon? Gacha Healing"
+      },
+      "171000093": {
+        "2": "Is It Wrong to Seek Hot Springs in a Dungeon? Gacha Relaxation"
+      },
+      "171000094": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Is It Wrong to Seek Hot Springs in a Dungeon? Gacha Healing"
+      },
+      "171000095": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Is It Wrong to Seek Hot Springs in a Dungeon? Gacha Relaxation"
+      },
+      "171000096": {
+        "2": "Is It Wrong to Seek Hot Springs in a Dungeon? Healing 4-Star Guaranteed Ticket Gacha"
+      },
+      "171000097": {
+        "2": "Is It Wrong to Seek Hot Springs in a Dungeon? Relaxation 4-Star Guaranteed Ticket Gacha"
+      },
+      "171000098": {
+        "2": "4-Star Guaranteed 11 Draw Is It Wrong to Seek Hot Springs in a Dungeon? Ticket Gacha"
+      },
+      "171000119": {
+        "2": "[Paid] 11 Draw 4-Star Guaranteed Sword Oratoria Finale Celebration Gacha Awakened Chorus"
+      },
+      "171000120": {
+        "2": "Adventurer Featured Gacha Master Smith Tsubaki"
+      },
+      "171000127": {
+        "2": "Travelers and the Labyrinth Country Gacha / b"
+      },
+      "171000128": {
+        "2": "Travelers and the Labyrinth Country Gacha / a"
+      },
+      "171000294": {
+        "2": "Pandemic Orario 11 Draw Ticket Gacha"
+      },
+      "171000874": {
+        "2": "(Rerun) Travelers and the Labyrinth Country Gacha / a"
+      },
+      "171000875": {
+        "2": "(Rerun) Travelers and the Labyrinth Country Gacha / b"
+      },
+      "171002246": {
+        "2": "Valentine Romance Gacha"
+      },
+      "171002247": {
+        "2": "[Paid] Valentine Romance Gacha Sweet Catgirl"
+      },
+      "171002248": {
+        "2": "[Paid] Valentine Romance Gacha A Fateful Love"
+      }
+    },
+    "gachaTicket": {
+      "296000011": {
+        "2": "Version 2.0.0 Celebration Gacha Ticket"
+      },
+      "296000012": {
+        "2": "Holy Night Panic 4-Star Guaranteed Gacha Ticket"
+      },
+      "296000016": {
+        "2": "Hot Springs Healing 4-Star Guaranteed Gacha Ticket"
+      },
+      "296000017": {
+        "2": "Hot Springs Relaxation 4-Star Guaranteed Gacha Ticket"
+      },
+      "296000018": {
+        "2": "Hot Springs 4-Star Guaranteed 11 Draw Ticket"
+      },
+      "296000019": {
+        "2": "Season Two Announcement Celebration Gacha Ticket"
+      },
+      "296000034": {
+        "2": "Oradio Z First Anniversary Gacha Ticket"
+      },
+      "296000035": {
+        "2": "Pandemic Orario 11 Draw Ticket"
+      }
+    },
+    "eventItem": {
+      "290000028": {
+        "2": "Halloween Medal"
+      },
+      "290000029": {
+        "2": "Yellow Pumpkin"
+      },
+      "290000030": {
+        "2": "Purple Pumpkin"
+      },
+      "290000031": {
+        "2": "Dungeon Fan Letter"
+      },
+      "290000032": {
+        "2": "Detective Paw Badge"
+      },
+      "290000033": {
+        "2": "Detective Cat Badge"
+      },
+      "290000034": {
+        "2": "Great Black Cat Detective Badge"
+      },
+      "290000035": {
+        "2": "Detective Medal"
+      },
+      "290000036": {
+        "2": "Mysterious Moss"
+      },
+      "290000037": {
+        "2": "Elegant Gentleman Guide"
+      },
+      "290000038": {
+        "2": "Shining Dungeon Fan Letter"
+      },
+      "290000039": {
+        "2": "Brilliant Moss"
+      },
+      "290000043": {
+        "2": "Snow Medal"
+      },
+      "290000044": {
+        "2": "Cat Lancer Guide"
+      },
+      "290000048": {
+        "2": "New Year Medal"
+      },
+      "290000051": {
+        "2": "White Healer Guide"
+      },
+      "290000052": {
+        "2": "Mysterious Flowers"
+      },
+      "290000053": {
+        "2": "Vivid Flowers"
+      },
+      "290000058": {
+        "2": "Cunning Detective Guide"
+      },
+      "290000059": {
+        "2": "Roasted Festival Beans"
+      },
+      "290000060": {
+        "2": "Lucky Festival Beans"
+      },
+      "290000061": {
+        "2": "Friendship Chocolate"
+      },
+      "290000062": {
+        "2": "Luxury Chocolate"
+      },
+      "290000063": {
+        "2": "Homemade Chocolate"
+      },
+      "290000064": {
+        "2": "Valentine Medal"
+      },
+      "290000065": {
+        "2": "Bitter Chocolate"
+      },
+      "290000066": {
+        "2": "White Chocolate"
+      },
+      "290000068": {
+        "2": "Tsubaki Prototype Equipment"
+      },
+      "290000069": {
+        "2": "Tsubaki Prototype Equipment MK-II"
+      },
+      "290000070": {
+        "2": "Queen of the Night Guide"
+      },
+      "290000071": {
+        "2": "Dungeon Soap"
+      },
+      "290000072": {
+        "2": "Dungeon Towel"
+      },
+      "290000073": {
+        "2": "Dungeon Bath Bucket"
+      },
+      "290000074": {
+        "2": "Hot Springs Medal"
+      },
+      "290000078": {
+        "2": "Academy Medal 2"
+      },
+      "290000108": {
+        "2": "Blissful Mood Guide"
+      },
+      "290000109": {
+        "2": "Hot Spring Samurai Guide"
+      }
+    },
+    "adventureEpisode": {
+      "7020010101": {
+        "4": "Character Quest Bell1 Part1"
+      },
+      "7020010102": {
+        "4": "Character Quest Bell1 Part2"
+      },
+      "7020010103": {
+        "4": "Character Quest Bell1 Part3"
+      },
+      "7020020101": {
+        "4": "Character Quest Ais1 Part1"
+      },
+      "7020020102": {
+        "4": "Character Quest Ais1 Part2"
+      },
+      "7020020103": {
+        "4": "Character Quest Ais1 Part3"
+      },
+      "7020030101": {
+        "4": "Character Quest Liliruca1 Part1"
+      },
+      "7020030102": {
+        "4": "Character Quest Liliruca1 Part2"
+      },
+      "7020030103": {
+        "4": "Character Quest Liliruca1 Part3"
+      },
+      "7020040101": {
+        "4": "Character Quest Mikoto1 Part1"
+      },
+      "7020040102": {
+        "4": "Character Quest Mikoto1 Part2"
+      },
+      "7020040103": {
+        "4": "Character Quest Mikoto1 Part3"
+      },
+      "7020050101": {
+        "4": "Character Quest Finn1 Part1"
+      },
+      "7020050102": {
+        "4": "Character Quest Finn1 Part2"
+      },
+      "7020050103": {
+        "4": "Character Quest Finn1 Part3"
+      },
+      "7020060101": {
+        "4": "Character Quest Riveria1 Part1"
+      },
+      "7020060102": {
+        "4": "Character Quest Riveria1 Part2"
+      },
+      "7020060103": {
+        "4": "Character Quest Riveria1 Part3"
+      },
+      "7020090101": {
+        "4": "Character Quest Tione1 Part1"
+      },
+      "7020090102": {
+        "4": "Character Quest Tione1 Part2"
+      },
+      "7020090103": {
+        "4": "Character Quest Tione1 Part3"
+      },
+      "7020100101": {
+        "4": "Character Quest Tiona1 Part1"
+      },
+      "7020100102": {
+        "4": "Character Quest Tiona1 Part2"
+      },
+      "7020100103": {
+        "4": "Character Quest Tiona1 Part3"
+      },
+      "7020110101": {
+        "4": "Character Quest Welf1 Part1"
+      },
+      "7020110102": {
+        "4": "Character Quest Welf1 Part2"
+      },
+      "7020110103": {
+        "4": "Character Quest Welf1 Part3"
+      },
+      "7020120101": {
+        "4": "Character Quest Bete1 Part1"
+      },
+      "7020120102": {
+        "4": "Character Quest Bete1 Part2"
+      },
+      "7020120103": {
+        "4": "Character Quest Bete1 Part3"
+      },
+      "7020140101": {
+        "4": "Character Quest 00082"
+      },
+      "7020140102": {
+        "4": "Character Quest 00083"
+      },
+      "7020140103": {
+        "4": "Character Quest 00084"
+      },
+      "7020180101": {
+        "4": "Character Quest Lefiya1 Part1"
+      },
+      "7020180102": {
+        "4": "Character Quest Lefiya1 Part2"
+      },
+      "7020180103": {
+        "4": "Character Quest Lefiya1 Part3"
+      },
+      "7020190101": {
+        "4": "Character Quest 00074"
+      },
+      "7020190102": {
+        "4": "Character Quest 00075"
+      },
+      "7020190103": {
+        "4": "Character Quest 00076"
+      },
+      "7020200101": {
+        "4": "Character Quest Ryu1 Part1"
+      },
+      "7020200102": {
+        "4": "Character Quest Ryu1 Part2"
+      },
+      "7020200103": {
+        "4": "Character Quest Ryu1 Part3"
+      },
+      "7020210101": {
+        "4": "Character Quest 00106"
+      },
+      "7020210102": {
+        "4": "Character Quest 00107"
+      },
+      "7020210103": {
+        "4": "Character Quest 00108"
+      },
+      "7020270101": {
+        "4": "Character Quest Hestia1 Part1"
+      },
+      "7020270102": {
+        "4": "Character Quest Hestia1 Part2"
+      },
+      "7020270103": {
+        "4": "Character Quest Hestia1 Part3"
+      },
+      "7020280101": {
+        "4": "Character Quest Loki1 Part1"
+      },
+      "7020280102": {
+        "4": "Character Quest Loki1 Part2"
+      },
+      "7020280103": {
+        "4": "Character Quest Loki1 Part3"
+      },
+      "7020290101": {
+        "4": "Character Quest Syr1 Part1"
+      },
+      "7020290102": {
+        "4": "Character Quest Syr1 Part2"
+      },
+      "7020290103": {
+        "4": "Character Quest Syr1 Part3"
+      },
+      "7020300101": {
+        "4": "Character Quest Eina1 Part1"
+      },
+      "7020300102": {
+        "4": "Character Quest Eina1 Part2"
+      },
+      "7020300103": {
+        "4": "Character Quest Eina1 Part3"
+      },
+      "7020310101": {
+        "4": "Character Quest Hephaistos1 Part1"
+      },
+      "7020310102": {
+        "4": "Character Quest Hephaistos1 Part2"
+      },
+      "7020310103": {
+        "4": "Character Quest Hephaistos1 Part3"
+      },
+      "7020320101": {
+        "4": "Character Quest Freya1 Part1"
+      },
+      "7020320102": {
+        "4": "Character Quest Freya1 Part2"
+      },
+      "7020320103": {
+        "4": "Character Quest Freya1 Part3"
+      },
+      "7020430101": {
+        "4": "Character Quest Amid1 Part1"
+      },
+      "7020430102": {
+        "4": "Character Quest Amid1 Part2"
+      },
+      "7020430103": {
+        "4": "Character Quest Amid1 Part3"
+      },
+      "7021140101": {
+        "4": "Character Quest 00103"
+      },
+      "7021140102": {
+        "4": "Character Quest 00104"
+      },
+      "7021140103": {
+        "4": "Character Quest 00105"
+      },
+      "7030010101": {
+        "4": "Event Quest 7030010101"
+      },
+      "7030020101": {
+        "4": "Event Quest 7030020101"
+      },
+      "7030030101": {
+        "4": "Event Quest 7030030101"
+      },
+      "7030040101": {
+        "4": "Event Quest 7030040101"
+      },
+      "7030050101": {
+        "4": "Event Quest 7030050101"
+      },
+      "7030060101": {
+        "4": "Event Quest 7030060101"
+      },
+      "7030090101": {
+        "4": "Event Quest 7030090101"
+      },
+      "7030100101": {
+        "4": "Event Quest 7030100101"
+      },
+      "7030110101": {
+        "4": "Event Quest 7030110101"
+      },
+      "7030120101": {
+        "4": "Event Quest 7030120101"
+      },
+      "7030140101": {
+        "4": "Event Quest 7030140101"
+      },
+      "7030180101": {
+        "4": "Event Quest 7030180101"
+      },
+      "7030190101": {
+        "4": "Event Quest 7030190101"
+      },
+      "7030200101": {
+        "4": "Event Quest 7030200101"
+      },
+      "7030210101": {
+        "4": "Event Quest 7030210101"
+      },
+      "7030270101": {
+        "4": "Event Quest 7030270101"
+      },
+      "7030280101": {
+        "4": "Event Quest 7030280101"
+      },
+      "7030290101": {
+        "4": "Event Quest 7030290101"
+      },
+      "7030300101": {
+        "4": "Event Quest 7030300101"
+      },
+      "7030310101": {
+        "4": "Event Quest 7030310101"
+      },
+      "7030320101": {
+        "4": "Event Quest 7030320101"
+      },
+      "7030430101": {
+        "4": "Event Quest 7030430101"
+      },
+      "7031140101": {
+        "4": "Event Quest 7031140101"
+      },
+      "7040010101": {
+        "4": "Event Quest 7040010101"
+      },
+      "7040020101": {
+        "4": "Event Quest 7040020101"
+      },
+      "7040030101": {
+        "4": "Event Quest 7040030101"
+      },
+      "7040040101": {
+        "4": "Event Quest 7040040101"
+      },
+      "7040050101": {
+        "4": "Event Quest 7040050101"
+      },
+      "7040060101": {
+        "4": "Event Quest 7040060101"
+      },
+      "7040090101": {
+        "4": "Event Quest 7040090101"
+      },
+      "7040100101": {
+        "4": "Event Quest 7040100101"
+      },
+      "7040110101": {
+        "4": "Event Quest 7040110101"
+      },
+      "7040120101": {
+        "4": "Event Quest 7040120101"
+      },
+      "7040140101": {
+        "4": "Event Quest 7040140101"
+      },
+      "7040180101": {
+        "4": "Event Quest 7040180101"
+      },
+      "7040190101": {
+        "4": "Event Quest 7040190101"
+      },
+      "7040200101": {
+        "4": "Event Quest 7040200101"
+      },
+      "7040210101": {
+        "4": "Event Quest 7040210101"
+      },
+      "7040270101": {
+        "4": "Event Quest 7040270101"
+      },
+      "7040280101": {
+        "4": "Event Quest 7040280101"
+      },
+      "7040290101": {
+        "4": "Event Quest 7040290101"
+      },
+      "7040300101": {
+        "4": "Event Quest 7040300101"
+      },
+      "7040310101": {
+        "4": "Event Quest 7040310101"
+      },
+      "7040320101": {
+        "4": "Event Quest 7040320101"
+      },
+      "7040430101": {
+        "4": "Event Quest 7040430101"
+      },
+      "7041140101": {
+        "4": "Event Quest 7041140101"
+      },
+      "7080000501": {
+        "4": "Event Quest 7080000501"
+      },
+      "7080000601": {
+        "4": "Event Quest 7080000601"
+      },
+      "7080000901": {
+        "4": "Event Quest 7080000901"
+      },
+      "7080001001": {
+        "4": "Event Quest 7080001001"
+      },
+      "7080001201": {
+        "4": "Event Quest 7080001201"
+      },
+      "7080001501": {
+        "4": "Event Quest 7080001501"
+      },
+      "7080001601": {
+        "4": "Event Quest 7080001601"
+      },
+      "7080001701": {
+        "4": "Event Quest 7080001701"
+      },
+      "7080001801": {
+        "4": "Event Quest 7080001801"
+      },
+      "7080001901": {
+        "4": "Event Quest 7080001901"
+      },
+      "7080002001": {
+        "4": "Event Quest 7080002001"
+      },
+      "7090000201": {
+        "4": "Event Quest 7090000201"
+      },
+      "7090000301": {
+        "4": "Event Quest 7090000301"
+      },
+      "7090000401": {
+        "4": "Event Quest 7090000401"
+      },
+      "7090000501": {
+        "4": "Event Quest 7090000501"
+      },
+      "7090000601": {
+        "4": "Event Quest 7090000601"
+      },
+      "7090000701": {
+        "4": "Event Quest 7090000701"
+      },
+      "7090000901": {
+        "4": "Event Quest 7090000901"
+      },
+      "7090001001": {
+        "4": "Event Quest 7090001001"
+      },
+      "7090001101": {
+        "4": "Event Quest 7090001101"
+      },
+      "7090002601": {
+        "4": "Event Quest 7090002601"
+      },
+      "7090004101": {
+        "4": "Event Quest 7090004101"
+      },
+      "7090004401": {
+        "4": "Event Quest 7090004401"
+      },
+      "7090020101": {
+        "4": "Event Quest 7090020101"
+      },
+      "7090120201": {
+        "4": "Event Quest 7090120201"
+      },
+      "7090120202": {
+        "4": "Event Quest 7090120202"
+      },
+      "7090120203": {
+        "4": "Event Quest 7090120203"
+      },
+      "7090120204": {
+        "4": "Event Quest 7090120204"
+      },
+      "7120000101": {
+        "4": "Rank 10"
+      },
+      "7120000102": {
+        "4": "Rank 9"
+      },
+      "7120000103": {
+        "4": "Rank 8"
+      },
+      "7120000104": {
+        "4": "Rank 7"
+      },
+      "7120000105": {
+        "4": "Rank 6"
+      },
+      "7120000106": {
+        "4": "Rank 5"
+      },
+      "7120000107": {
+        "4": "Rank 4"
+      },
+      "7120000108": {
+        "4": "Rank 3"
+      },
+      "7120000109": {
+        "4": "Rank 2"
+      },
+      "7120000110": {
+        "4": "Rank 1"
+      },
+      "7120000201": {
+        "4": "Rank 11"
+      },
+      "7120000202": {
+        "4": "Rank 10"
+      },
+      "7120000203": {
+        "4": "Rank 9"
+      },
+      "7120000204": {
+        "4": "Rank 8"
+      },
+      "7120000205": {
+        "4": "Rank 7"
+      },
+      "7120000206": {
+        "4": "Rank 6"
+      },
+      "7120000207": {
+        "4": "Rank 5"
+      },
+      "7120000208": {
+        "4": "Rank 4"
+      },
+      "7120000209": {
+        "4": "Rank 3"
+      },
+      "7120000210": {
+        "4": "Rank 2"
+      },
+      "7120000211": {
+        "4": "Rank 1"
+      },
+      "7120000301": {
+        "4": "Rank 12"
+      },
+      "7120000302": {
+        "4": "Rank 11"
+      },
+      "7120000303": {
+        "4": "Rank 10"
+      },
+      "7120000304": {
+        "4": "Rank 9"
+      },
+      "7120000305": {
+        "4": "Rank 8"
+      },
+      "7120000306": {
+        "4": "Rank 7"
+      },
+      "7120000307": {
+        "4": "Rank 6"
+      },
+      "7120000308": {
+        "4": "Rank 5"
+      },
+      "7120000309": {
+        "4": "Rank 4"
+      },
+      "7120000310": {
+        "4": "Rank 3"
+      },
+      "7120000311": {
+        "4": "Rank 2"
+      },
+      "7120000312": {
+        "4": "Rank 1"
+      },
+      "7120000401": {
+        "4": "Rank 12"
+      },
+      "7120000402": {
+        "4": "Rank 11"
+      },
+      "7120000403": {
+        "4": "Rank 10"
+      },
+      "7120000404": {
+        "4": "Rank 9"
+      },
+      "7120000405": {
+        "4": "Rank 8"
+      },
+      "7120000406": {
+        "4": "Rank 7"
+      },
+      "7120000407": {
+        "4": "Rank 6"
+      },
+      "7120000408": {
+        "4": "Rank 5"
+      },
+      "7120000409": {
+        "4": "Rank 4"
+      },
+      "7120000410": {
+        "4": "Rank 3"
+      },
+      "7120000411": {
+        "4": "Rank 2"
+      },
+      "7120000412": {
+        "4": "Rank 1"
+      },
+      "7120000501": {
+        "4": "Rank 12"
+      },
+      "7120000502": {
+        "4": "Rank 11"
+      },
+      "7120000503": {
+        "4": "Rank 10"
+      },
+      "7120000504": {
+        "4": "Rank 9"
+      },
+      "7120000505": {
+        "4": "Rank 8"
+      },
+      "7120000506": {
+        "4": "Rank 7"
+      },
+      "7120000507": {
+        "4": "Rank 6"
+      },
+      "7120000508": {
+        "4": "Rank 5"
+      },
+      "7120000509": {
+        "4": "Rank 4"
+      },
+      "7120000510": {
+        "4": "Rank 3"
+      },
+      "7120000511": {
+        "4": "Rank 2"
+      },
+      "7120000512": {
+        "4": "Rank 1"
+      },
+      "7120000601": {
+        "4": "Rank 12"
+      },
+      "7120000602": {
+        "4": "Rank 11"
+      },
+      "7120000603": {
+        "4": "Rank 10"
+      },
+      "7120000604": {
+        "4": "Rank 9"
+      },
+      "7120000605": {
+        "4": "Rank 8"
+      },
+      "7120000606": {
+        "4": "Rank 7"
+      },
+      "7120000607": {
+        "4": "Rank 6"
+      },
+      "7120000608": {
+        "4": "Rank 5"
+      },
+      "7120000609": {
+        "4": "Rank 4"
+      },
+      "7120000610": {
+        "4": "Rank 3"
+      },
+      "7120000611": {
+        "4": "Rank 2"
+      },
+      "7120000612": {
+        "4": "Rank 1"
+      },
+      "7120000701": {
+        "4": "Rank 12"
+      },
+      "7120000702": {
+        "4": "Rank 11"
+      },
+      "7120000703": {
+        "4": "Rank 10"
+      },
+      "7120000704": {
+        "4": "Rank 9"
+      },
+      "7120000705": {
+        "4": "Rank 8"
+      },
+      "7120000706": {
+        "4": "Rank 7"
+      },
+      "7120000707": {
+        "4": "Rank 6"
+      },
+      "7120000708": {
+        "4": "Rank 5"
+      },
+      "7120000709": {
+        "4": "Rank 4"
+      },
+      "7120000710": {
+        "4": "Rank 3"
+      },
+      "7120000711": {
+        "4": "Rank 2"
+      },
+      "7120000712": {
+        "4": "Rank 1"
+      },
+      "7120000801": {
+        "4": "Rank 12"
+      },
+      "7120000802": {
+        "4": "Rank 11"
+      },
+      "7120000803": {
+        "4": "Rank 10"
+      },
+      "7120000804": {
+        "4": "Rank 9"
+      },
+      "7120000805": {
+        "4": "Rank 8"
+      },
+      "7120000806": {
+        "4": "Rank 7"
+      },
+      "7120000807": {
+        "4": "Rank 6"
+      },
+      "7120000808": {
+        "4": "Rank 5"
+      },
+      "7120000809": {
+        "4": "Rank 4"
+      },
+      "7120000810": {
+        "4": "Rank 3"
+      },
+      "7120000811": {
+        "4": "Rank 2"
+      },
+      "7120000812": {
+        "4": "Rank 1"
+      },
+      "7140010101": {
+        "4": "Welcome Back Quest"
+      },
+      "7150000505": {
+        "4": "Record Buster Round 5"
+      }
+    },
+    "shop": {
+      "204000003": {
+        "2": "Maenads' Ordeal Pt.1 Exchange"
+      },
+      "204000005": {
+        "2": "Ais Descends Exchange"
+      },
+      "204000006": {
+        "2": "Event Quest 7090000201 Exchange"
+      },
+      "204000007": {
+        "2": "Hestia Descends Exchange"
+      },
+      "204000008": {
+        "2": "Ryu Descends Exchange"
+      },
+      "204000009": {
+        "2": "Event Quest 7090000301 Exchange"
+      },
+      "204000012": {
+        "2": "Event Quest 7080000501 Exchange"
+      },
+      "204000013": {
+        "2": "Event Quest 7080000601 Exchange"
+      },
+      "204000015": {
+        "2": "Ottarl Descends Exchange"
+      },
+      "204000016": {
+        "2": "Event Quest 7090000401 Exchange"
+      },
+      "204000017": {
+        "2": "Lefiya Descends Exchange"
+      },
+      "204000018": {
+        "2": "Event Quest 7080000901 Exchange"
+      },
+      "204000019": {
+        "2": "Event Quest 7090001001 Exchange"
+      },
+      "204000021": {
+        "2": "Event Quest 7080001001 Exchange"
+      },
+      "204000022": {
+        "2": "Event Quest 7090000501 Exchange"
+      },
+      "204000023": {
+        "2": "Classy Gentlemen Descends Exchange"
+      },
+      "204000024": {
+        "2": "Event Quest 7090120201 Exchange"
+      },
+      "204000025": {
+        "2": "Event Quest 7090000601 Exchange"
+      },
+      "204000026": {
+        "2": "Event Quest 7080001201 Exchange"
+      },
+      "204000027": {
+        "2": "New Year's Descent Exchange"
+      },
+      "204000028": {
+        "2": "Amid Descends Exchange"
+      },
+      "204000029": {
+        "2": "Event Quest 7090000701 Exchange"
+      },
+      "204000031": {
+        "2": "Event Quest 7090120202 Exchange"
+      },
+      "204000032": {
+        "2": "Orario Academia Exchange"
+      },
+      "204000033": {
+        "2": "Event Quest 7080001501 Exchange"
+      },
+      "204000034": {
+        "2": "Event Quest 7090120203 Exchange"
+      },
+      "204000035": {
+        "2": "Event Quest 7090000901 Exchange"
+      },
+      "204000036": {
+        "2": "Event Quest 7080001601 Exchange"
+      },
+      "204000038": {
+        "2": "Event Quest 7080001701 Exchange"
+      },
+      "204000040": {
+        "2": "Event Quest 7090120204 Exchange"
+      },
+      "204000041": {
+        "2": "Event Quest 7090001101 Exchange"
+      },
+      "204000042": {
+        "2": "Event Quest 7080001801 Exchange"
+      },
+      "204000043": {
+        "2": "Orario Academia 2 Exchange"
+      },
+      "204000044": {
+        "2": "Event Quest 7080001901 Exchange"
+      },
+      "204000045": {
+        "2": "Passion of the Maenads Exchange"
+      },
+      "204000046": {
+        "2": "Event Quest 7080002001 Exchange"
+      },
+      "204000054": {
+        "2": "White Robe Riveria Descends Exchange"
+      },
+      "204000055": {
+        "2": "Grand Day Eve Exchange"
+      },
+      "204000056": {
+        "2": "Tuxedo Ryu Descends Exchange"
+      },
+      "204000057": {
+        "2": "Zeus-Hera Ais Descends Exchange"
+      },
+      "204000058": {
+        "2": "Grand Day Exchange"
+      },
+      "204000059": {
+        "2": "Battle Clothes Ais Descends Exchange"
+      },
+      "204000060": {
+        "2": "Battle Clothes Lefiya Descends Exchange"
+      },
+      "204000061": {
+        "2": "Shoreside Swimwear Story Exchange"
+      },
+      "204000062": {
+        "2": "Swimwear (Assist) Descends Exchange"
+      },
+      "204000063": {
+        "2": "Reports on the Record Holder Exchange"
+      },
+      "204000064": {
+        "2": "Swimwear (Adventurer) Descends Exchange"
+      },
+      "204000065": {
+        "2": "Special Item Exchange 204000065"
+      },
+      "204000066": {
+        "2": "Detectives Anya & Chloe 2 Exchange"
+      },
+      "204000067": {
+        "2": "Dress Syr Descends Exchange"
+      },
+      "204000068": {
+        "2": "Zeus Bell Descends Exchange"
+      },
+      "204000069": {
+        "2": "The Hiryute Sisters' Debutante Exchange"
+      },
+      "204000070": {
+        "2": "Hera Lefiya Descends Exchange"
+      },
+      "204000071": {
+        "2": "Haunted Night Exchange"
+      },
+      "204000072": {
+        "2": "Halloween Descends Part I Exchange"
+      },
+      "204000073": {
+        "2": "Halloween Descends Part II Exchange"
+      },
+      "204000075": {
+        "2": "Spooktacular Labyrinth Exchange"
+      },
+      "204000076": {
+        "2": "Beauty Con Filvis Descends Exchange"
+      },
+      "204000077": {
+        "2": "Attack on Orario Descend Part I Exchange"
+      },
+      "204000078": {
+        "2": "Attack on Orario Descend Part II Exchange"
+      },
+      "204000079": {
+        "2": "Attack on Orario Exchange"
+      },
+      "204000080": {
+        "2": "Casino Ganesha Descends Exchange"
+      },
+      "204000081": {
+        "2": "Winter Magic Miracle Descends Part I Exchange"
+      },
+      "204000082": {
+        "2": "Winter Magic Miracle Descends Part II Exchange"
+      },
+      "204000083": {
+        "2": "Winter Magic Miracle Exchange"
+      },
+      "204000084": {
+        "2": "Holy Night Panic Exchange"
+      },
+      "204000085": {
+        "2": "Minstrel Elf Eina Descends Exchange"
+      },
+      "204000086": {
+        "2": "New Year's Sale Battle Exchange"
+      },
+      "204000087": {
+        "2": "Grand Day Hestia Descends Exchange"
+      },
+      "204000088": {
+        "2": "New Year's Tale Exchange"
+      },
+      "204000089": {
+        "2": "Detectives Anya & Chloe 3 Exchange"
+      },
+      "204000090": {
+        "2": "2018 Valentine Descends Part I Exchange"
+      },
+      "204000091": {
+        "2": "2018 Valentine Descends Part II Exchange"
+      },
+      "204000092": {
+        "2": "Wallenstein <3 Valentine Exchange"
+      },
+      "204000093": {
+        "2": "Goddess Campanella Exchange"
+      },
+      "204000094": {
+        "2": "[Black Fist] Lunor Descends Exchange"
+      },
+      "204000095": {
+        "2": "[White Flash] Anakitty Descends Exchange"
+      },
+      "204000096": {
+        "2": "Elven Rondo Exchange"
+      },
+      "204000097": {
+        "2": "[Crimson Dahlia] Tione Descends Exchange"
+      },
+      "204000098": {
+        "2": "Ais Catastrophe Part I Exchange"
+      },
+      "204000099": {
+        "2": "Date A Live Descends Part I Exchange"
+      },
+      "204000100": {
+        "2": "Date A Live Descends Part II Exchange"
+      },
+      "204000101": {
+        "2": "[Amber Sunflower] Tiona Descends Exchange"
+      },
+      "204000102": {
+        "2": "The Movie -Arrow of the Orion- Exchange"
+      },
+      "204000103": {
+        "2": "[Almighty Fighter] Asfi Descends Exchange"
+      },
+      "204000104": {
+        "2": "[Medicinal Archer] Naza Ersuisu Descends Exchange"
+      },
+      "204000105": {
+        "2": "(Rerun) Quest x Quest Exchange"
+      },
+      "204000106": {
+        "2": "Mission: Wedding Exchange"
+      },
+      "204000107": {
+        "2": "Special Item Exchange 204000107"
+      },
+      "204000108": {
+        "2": "Event Quest 7090004101 Exchange"
+      },
+      "204000109": {
+        "2": "[Casino Lady] Shakti Varma Descends Exchange"
+      },
+      "204000110": {
+        "2": "Grand Day (Rerun) Exchange"
+      },
+      "204000111": {
+        "2": "Battle of Lucrious: Hope Exchange"
+      },
+      "204000112": {
+        "2": "Battle of Lucrious: Order Exchange"
+      },
+      "204000113": {
+        "2": "Argonaut Part I Exchange"
+      },
+      "204000114": {
+        "2": "Special Item Exchange 204000114"
+      },
+      "204000115": {
+        "2": "Argonaut Part II Exchange"
+      },
+      "204000116": {
+        "2": "Battle of Lucrious: Honor Exchange"
+      },
+      "204000117": {
+        "2": "Battle of Lucrious: Adventure Exchange"
+      },
+      "204000118": {
+        "2": "Secret Game Exchange"
+      },
+      "204000119": {
+        "2": "Event Quest 7090004401 Exchange"
+      },
+      "204000120": {
+        "2": "Dungeon Rogue Town Exchange"
+      },
+      "204000121": {
+        "2": "Heroic Trials -Detectives- Exchange"
+      },
+      "204000122": {
+        "2": "[Rerun] The Movie -Arrow of the Orion- Exchange"
+      },
+      "204000123": {
+        "2": "Nightmare Academia Exchange"
+      },
+      "204000124": {
+        "2": "Nightmare Breaker Part I Exchange"
+      },
+      "204000125": {
+        "2": "Nightmare Breaker Part II Exchange"
+      },
+      "204000126": {
+        "2": "Special Item Exchange 204000126"
+      },
+      "204000127": {
+        "2": "(Rerun) Orario Outbreak Exchange"
+      },
+      "204000128": {
+        "2": "Heroic Trials -Elven Rondo- Exchange"
+      },
+      "204000129": {
+        "2": "New Generation Pop Stars Exchange"
+      },
+      "204000130": {
+        "2": "(Rerun) Goddess Campanella Exchange"
+      },
+      "204000131": {
+        "2": "Heroic Trials Holy Winter Strike Part 1  Exchange"
+      },
+      "204000132": {
+        "2": "Winter Reverie Part I Exchange"
+      },
+      "204000133": {
+        "2": "Heroic Trials Holy Winter Strike Part 2 Exchange"
+      },
+      "204000134": {
+        "2": "Heroic Trials Holy Winter Strike Part 3 Exchange"
+      },
+      "204000135": {
+        "2": "The Werewolf Comes Exchange"
+      },
+      "204000136": {
+        "2": "Heroic Trials Oracle of Heaven Exchange"
+      },
+      "204000137": {
+        "2": "(Rerun) Ais Catastrophe Exchange"
+      },
+      "204000138": {
+        "2": "Heroic Trials Fate and Chance Exchange"
+      },
+      "204000139": {
+        "2": "Heroic Trials Fate and Chance Exchange"
+      },
+      "204000140": {
+        "2": "Dungeon & Goblins [Part I] Exchange"
+      },
+      "204000141": {
+        "2": "Heroic Trials Fate and Chance Exchange"
+      },
+      "204000142": {
+        "2": "Under Resort Crossing Exchange"
+      },
+      "204000143": {
+        "2": "Heroic Trials Mission: Wedding Exchange"
+      },
+      "204000144": {
+        "2": "(Rerun) Travelers and the Labyrinth Country Exchange"
+      },
+      "204000145": {
+        "2": "Special Item Exchange 204000145"
+      },
+      "204000146": {
+        "2": "Is It Wrong to Pick Herbs in a Desert Island? Exchange"
+      },
+      "204000147": {
+        "2": "Heroic Trials Dungeon Rogue Town Exchange"
+      },
+      "204000148": {
+        "2": "Certain Gods and Familia Love Songs Exchange"
+      },
+      "204000149": {
+        "2": "Heroic Trials Radiant Faith Exchange"
+      },
+      "204000150": {
+        "2": "Heroic Trials Amazon Banquet Exchange"
+      },
+      "204000151": {
+        "2": "(Rerun) Elven Rondo Exchange"
+      },
+      "204000152": {
+        "2": "A Certain Goddess's Love Song Exchange"
+      },
+      "204000153": {
+        "2": "Reminiscence Exchange"
+      },
+      "204000154": {
+        "2": "Heroic Trials Reminiscence Exchange"
+      },
+      "204000155": {
+        "2": "Astrea Record -The Rise of Evil- Exchange"
+      },
+      "204000158": {
+        "2": "Astrea Record -Lost Justice- Exchange"
+      },
+      "204000162": {
+        "2": "Astrea Record -Ultimate Clash- Exchange"
+      },
+      "204000163": {
+        "2": "Special Item Exchange 204000163"
+      },
+      "204000164": {
+        "2": "Sparkling Summer Carnival Exchange"
+      },
+      "204000167": {
+        "2": "Heroic Trails Ace Exchange"
+      },
+      "204000168": {
+        "2": "(Rerun) New Generation Pop Stars Exchange"
+      },
+      "204000169": {
+        "2": "Turbulent Shore Rondo Exchange"
+      },
+      "204000170": {
+        "2": "Heroic Trials Joker Exchange"
+      },
+      "204000171": {
+        "2": "A Duo of Sun and Moon Exchange"
+      },
+      "204000172": {
+        "2": "Heroic Trials: Channeled Assault Exchange"
+      },
+      "204000173": {
+        "2": "Holy Intoxicating Night Exchange"
+      },
+      "204000174": {
+        "2": "Intoxicating Battle Inferno -blanc- Exchange"
+      },
+      "204000175": {
+        "2": "Special Item Exchange 204000175"
+      },
+      "204000176": {
+        "2": "Winter Reverie I (Rerun) Exchange"
+      },
+      "204000177": {
+        "2": "Intoxicating Battle Inferno -rose- Exchange"
+      },
+      "204000178": {
+        "2": "Heroic Trials -United- Exchange"
+      },
+      "204000179": {
+        "2": "The Steamy Scheme Exchange"
+      },
+      "204000180": {
+        "2": "Heroic Trials -Clash- Exchange"
+      },
+      "204000181": {
+        "2": "(Rerun) The Werewolf Comes Exchange"
+      },
+      "204000182": {
+        "2": "Heroic Trials -White Sand Beach- Exchange"
+      },
+      "204000183": {
+        "2": "Xenos's Valentine Exchange"
+      },
+      "204000184": {
+        "2": "Wallenstein <3 Valentine (Rerun) Exchange"
+      },
+      "204000185": {
+        "2": "Dungeon Whiteout Exchange"
+      },
+      "204000186": {
+        "2": "Heroic Trials -Azure Sea- Exchange"
+      },
+      "204000187": {
+        "2": "Orario Academia Exchange"
+      },
+      "204000188": {
+        "2": "Heroic Trials -Kaleid Blood I- Exchange"
+      },
+      "204000189": {
+        "2": "The Beast and the Cursed Blade - Encounter Exchange"
+      },
+      "204000190": {
+        "2": "Heroic Trials -Kaleid Blood II- Exchange"
+      },
+      "204000191": {
+        "2": "The Beast and the Cursed Blade - Blaze Exchange"
+      },
+      "204000192": {
+        "2": "Special Item Exchange 204000192"
+      },
+      "204000193": {
+        "2": "Heroic Trials -Kaleid Blood III- Exchange"
+      },
+      "204000194": {
+        "2": "Heroic Trials -Kaleid Blood IV- Exchange"
+      },
+      "204000195": {
+        "2": "Heroic Trials -Affection- Exchange"
+      },
+      "204000196": {
+        "2": "Is It Wrong to Try to Roleplay in a Dungeon? Exchange"
+      },
+      "204000197": {
+        "2": "Orario Academia 2 Exchange"
+      },
+      "204000198": {
+        "2": "Heroic Trials Certain Memoirs Under the Sky Exchange"
+      },
+      "204000199": {
+        "2": "Certain Memoirs Under the Sky Exchange"
+      },
+      "204000200": {
+        "2": "Heroic Trials Oracle -Sacred Flame- Exchange"
+      },
+      "204000201": {
+        "2": "Aedes Vesta -Sacred Advent- Exchange"
+      },
+      "204000202": {
+        "2": "Heroic Trials Sanctify -Sacred Flame- Exchange"
+      },
+      "204000203": {
+        "2": "[Rerun] The Movie -Arrow of the Orion- Exchange"
+      },
+      "204000204": {
+        "2": "Heroic Trials Nobility -Sacred Flame- Exchange"
+      },
+      "204000205": {
+        "2": "Aedes Vesta -Full Moon- Exchange"
+      },
+      "204000206": {
+        "2": "Special Item Exchange 204000206"
+      },
+      "204000207": {
+        "2": "Heroic Trials Rebellion -Sacred Flame- Exchange"
+      },
+      "204000208": {
+        "2": "(Rerun) Goddess Campanella Exchange"
+      },
+      "204000209": {
+        "2": "Special Item Exchange 204000209"
+      },
+      "204000210": {
+        "2": "Special Item Exchange 204000210"
+      },
+      "204000211": {
+        "2": "Heroic Trials Familia -Sacred Flame- Exchange"
+      },
+      "204000212": {
+        "2": "Aedes Vesta -Heroic Torch- Exchange"
+      },
+      "204000213": {
+        "2": "Heroic Trials Gods -Sacred Flame- Exchange"
+      },
+      "204000214": {
+        "2": "Heroic Trials Epic -Sacred Flame- Exchange"
+      },
+      "204000215": {
+        "2": "Heroic Trials -Passion- Exchange"
+      },
+      "204000216": {
+        "2": "A Midsummer Night's Sabbath Exchange"
+      },
+      "204000217": {
+        "2": "(Rerun) Sparkling Summer Carnival Exchange"
+      },
+      "204000218": {
+        "2": "Heroic Trials -Good Will- Exchange"
+      },
+      "204000219": {
+        "2": "Is It Wrong to Expect a Hot Spring in the Dungeon? -God of the Bath Forever- Exchange"
+      },
+      "204000220": {
+        "2": "Nightmare Academia (Rerun) Exchange"
+      },
+      "204000221": {
+        "2": "Heroic Trials -Adoration- Exchange"
+      },
+      "204000222": {
+        "2": "Under Resort and the Feline Guide Exchange"
+      },
+      "204000223": {
+        "2": "Heroic Trials -The Light's Path Exchange"
+      },
+      "204000224": {
+        "2": "Heroic Trials -The Dark Lead- Exchange"
+      },
+      "204000225": {
+        "2": "Heroic Trials -New Wave- Exchange"
+      },
+      "204000226": {
+        "2": "(Rerun) Holy Intoxicating Night Exchange"
+      },
+      "204000227": {
+        "2": "Pop Stars Live Show Battle Exchange"
+      },
+      "204000228": {
+        "2": "Winter Reverie (Rerun) Exchange"
+      },
+      "204000229": {
+        "2": "Heroic Trials Xenos Encounter Exchange"
+      },
+      "204000230": {
+        "2": "Familia Chronicle Episode Freya Part I Exchange"
+      },
+      "204000231": {
+        "2": "Familia Chronicle Episode Freya Part II Exchange"
+      },
+      "204000232": {
+        "2": "Heroic Trials Featherly Xenos Exchange"
+      },
+      "204000233": {
+        "2": "Heroic Trials Good Friend Exchange"
+      },
+      "204000234": {
+        "2": "Giga Crisis of the Creators Exchange"
+      },
+      "204000235": {
+        "2": "Xenos's Valentine (Rerun) Exchange"
+      },
+      "204000236": {
+        "2": "(Rerun) Argonaut Part I Exchange"
+      },
+      "204000237": {
+        "2": "Heroic Trials Hero Returns Exchange"
+      },
+      "204000238": {
+        "2": "Heroic Trials -Bullet- Exchange"
+      },
+      "204000239": {
+        "2": "Heroic Trials -Strike- Exchange"
+      },
+      "204000240": {
+        "2": "Ais Engagement Exchange"
+      },
+      "204000241": {
+        "2": "Heroic Trials -Material- Exchange"
+      },
+      "204000242": {
+        "2": "Heroic Trials -Shore- Exchange"
+      },
+      "204000243": {
+        "2": "Requiem of Death and the Maze Exchange"
+      },
+      "204000244": {
+        "2": "Special Item Exchange 204000244"
+      },
+      "204000245": {
+        "2": "Heroic Trials -Faust- Exchange"
+      },
+      "204000246": {
+        "2": "Heroic Trials -Turbulence- Exchange"
+      },
+      "204000247": {
+        "2": "Heroic Trials -Aide- Exchange"
+      },
+      "204000248": {
+        "2": "Heroic Trials -Aristocracy- Exchange"
+      },
+      "204000249": {
+        "2": "Ulfheoinn Exchange"
+      },
+      "204000250": {
+        "2": "Mission: Wedding (Rerun) Exchange"
+      },
+      "204000251": {
+        "2": "Lullaby of the Kiln and the Flame Exchange"
+      },
+      "204000252": {
+        "2": "Heroic Trials -Lullaby of the Kiln and the Flame- Exchange"
+      },
+      "204000253": {
+        "2": "Knights of Fianna -Knight's Glory- Exchange"
+      },
+      "204000254": {
+        "2": "Heroic Trials -Honor- Exchange"
+      },
+      "204000255": {
+        "2": "Heroic Trials -Loyalty- Exchange"
+      },
+      "204000256": {
+        "2": "Knights of Fianna -Artificial Hero- Exchange"
+      },
+      "204000257": {
+        "2": "Heroic Trials -Artificial Hero- Exchange"
+      },
+      "204000258": {
+        "2": "Knights of Fianna -Tracks of Courage- Exchange"
+      },
+      "204000259": {
+        "2": "Special Item Exchange 204000259"
+      },
+      "204000260": {
+        "2": "Heroic Trials -Bravery- Exchange"
+      },
+      "204000261": {
+        "2": "Heroic Trials -Courageous Heart- Exchange"
+      },
+      "204000262": {
+        "2": "Xenos Reverse Exchange"
+      },
+      "204000263": {
+        "2": "Heroic Trials -Exalted Waters- Exchange"
+      },
+      "204000264": {
+        "2": "Heroic Trials -Hidden Spring- Exchange"
+      },
+      "204000265": {
+        "2": "Wind Recollections Exchange"
+      },
+      "204000266": {
+        "2": "A Midsummer Night's Sabbath (Rerun) Exchange"
+      },
+      "204000267": {
+        "2": "Heroic Trials -Heroes- Exchange"
+      },
+      "204000268": {
+        "2": "Ais in Wonderland Exchange"
+      },
+      "204000269": {
+        "2": "Heroic Trials -Villains- Exchange"
+      },
+      "204000270": {
+        "2": "Is It Wrong to Expect a Hot Spring in the Dungeon? -God of the Bath Forever- (Rerun) Exchange"
+      },
+      "204000271": {
+        "2": "Return of the Hero Part I Exchange"
+      },
+      "204000272": {
+        "2": "Heroic Trials -Wreath- Exchange"
+      },
+      "204000273": {
+        "2": "Special Item Exchange 204000273"
+      },
+      "204000274": {
+        "2": "Heroic Trials -Candle- Exchange"
+      },
+      "204000275": {
+        "2": "Valhalla Panic Exchange"
+      },
+      "204000276": {
+        "2": "Heroic Trials -Sea Breeze Brawl- Exchange"
+      },
+      "204000277": {
+        "2": "Heroic Trials -Relax- Exchange"
+      },
+      "204000278": {
+        "2": "Astrea Record -The Rise of Evil- (Rerun) Exchange"
+      },
+      "204000279": {
+        "2": "Astrea Record -Lost Justice- (Rerun) Exchange"
+      },
+      "204000280": {
+        "2": "Heroic Trials: Detox Exchange"
+      },
+      "204000281": {
+        "2": "Heroic Trials -Crimson Phantom- Exchange"
+      },
+      "204000282": {
+        "2": "Astrea Record -Ultimate Clash- Exchange"
+      },
+      "204000283": {
+        "2": "Overture of the Sword and Spear Exchange"
+      },
+      "204000284": {
+        "2": "Heroic Trials -G-Pen- Exchange"
+      },
+      "204000285": {
+        "2": "Familia Chronicle Episode Freya Part I (Rerun) Exchange"
+      },
+      "204000286": {
+        "2": "Familia Chronicle Episode Freya Part II (Rerun) Exchange"
+      },
+      "204000287": {
+        "2": "Heroic Trials -Ink- Exchange"
+      },
+      "204000288": {
+        "2": "Heroic Trials -Orichalcum- Exchange"
+      },
+      "204000289": {
+        "2": "Pop Stars Live Show Battle (Rerun) Exchange"
+      },
+      "204000290": {
+        "2": "Knossos War Exchange"
+      },
+      "204000291": {
+        "2": "Heroic Trials -Adamantite- Exchange"
+      },
+      "204000292": {
+        "2": "Heroic Trials -Prelude- Exchange"
+      },
+      "204000293": {
+        "2": "Heroic Trials -Sinfonia- Exchange"
+      },
+      "204000294": {
+        "2": "Fragments of an Unforgettable Memory Exchange"
+      },
+      "204000295": {
+        "2": "Orgion Saga -Prelude to the End- Exchange"
+      },
+      "204000296": {
+        "2": "Orgion Saga -Darkest Divine Will- Exchange"
+      },
+      "204000297": {
+        "2": "Heroic Trials -Nocturne- Exchange"
+      },
+      "204000298": {
+        "2": "Heroic Trials -Interlude- Exchange"
+      },
+      "204000299": {
+        "2": "Orgion Saga -Heroic Chorus- Exchange"
+      },
+      "204000300": {
+        "2": "Six-Ring Siege Exchange"
+      },
+      "204000301": {
+        "2": "Special Item Exchange 204000301"
+      },
+      "204000302": {
+        "2": "Grand Day (Rerun) Exchange"
+      },
+      "204000303": {
+        "2": "Xenos Reverse (Rerun) Exchange"
+      },
+      "204000304": {
+        "2": "Heroic Trials -Postlude- Exchange"
+      },
+      "204000305": {
+        "2": "(Rerun) Argonaut Part I Exchange"
+      },
+      "204000306": {
+        "2": "(Rerun) Argonaut Part II Exchange"
+      },
+      "204000307": {
+        "2": "Xenos's Valentine (Rerun) Exchange"
+      },
+      "204000308": {
+        "2": "(Rerun) Ais in Wonderland Exchange"
+      },
+      "204000309": {
+        "2": "Winter Magic Miracle (Rerun) Exchange"
+      },
+      "204000310": {
+        "2": "Knights of Fianna -Knight's Glory- (Rerun) Exchange"
+      },
+      "204000311": {
+        "2": "Knights of Fianna -Artificial Hero- (Rerun) Exchange"
+      },
+      "204000312": {
+        "2": "Knights of Fianna -Tracks of Courage- (Rerun) Exchange"
+      },
+      "204010001": {
+        "2": "Special Item Exchange 204010001"
+      },
+      "204010002": {
+        "2": "Special Item Exchange 204010002"
+      }
+    },
+    "pc": {
+      "1011049007": {
+        "1": "Sweet Catgirl"
+      },
+      "1012018005": {
+        "1": "A Fateful Love"
+      }
+    },
+    "keyItem": {
+      "241000041": {
+        "2": "[Feat] Journey to the Hot Springs"
+      }
+    },
+    "itemType": {
+      "200000001": {
+        "2": "Materials"
+      },
+      "200000002": {
+        "2": "Equipment"
+      },
+      "200000003": {
+        "2": "Key Items"
+      },
+      "200000004": {
+        "2": "Pet Food"
+      },
+      "200000005": {
+        "2": "Currency"
+      },
+      "200000006": {
+        "2": "Fish"
+      },
+      "200000007": {
+        "2": "Chronos Stones"
+      },
+      "200000008": {
+        "2": "Mastery Books"
+      },
+      "200000009": {
+        "2": "Dungeon Tickets"
+      },
+      "200000010": {
+        "2": "Pet Toys"
+      },
+      "200000011": {
+        "2": "Awakening Items"
+      },
+      "200000012": {
+        "2": "Consumables"
+      },
+      "200000013": {
+        "2": "Light and Shadow Items"
+      },
+      "200000014": {
+        "2": "EXP Items"
+      },
+      "200000015": {
+        "2": "Falna"
+      },
+      "200000016": {
+        "2": "Stamina Tickets"
+      },
+      "200000017": {
+        "2": "Gacha Tickets"
+      },
+      "200000018": {
+        "2": "Character Selection Tickets"
+      },
+      "200000019": {
+        "2": "Quest Unlock Tickets"
+      },
+      "200000020": {
+        "2": "Bonds"
+      },
+      "200000021": {
+        "2": "Event Items"
+      },
+      "200000022": {
+        "2": "Prism Bonds"
+      },
+      "200000023": {
+        "2": "Crafting Materials"
+      },
+      "200000024": {
+        "2": "CP Items"
+      },
+      "200000025": {
+        "2": "Voting Items"
+      },
+      "200000026": {
+        "2": "Alarm Voice Exchange Items"
+      },
+      "200000027": {
+        "2": "Lottery Tickets"
+      },
+      "200000028": {
+        "2": "Equipment Enhancement Items"
+      },
+      "200000029": {
+        "2": "Equipment Evolution Items"
+      },
+      "200000030": {
+        "2": "Familia Donation Items"
+      },
+      "200000031": {
+        "2": "QR Code Items"
+      },
+      "200000032": {
+        "2": "GvE Stamina Items"
+      },
+      "200000033": {
+        "2": "Hero Ascension Items"
+      },
+      "200000034": {
+        "2": "Hero Ascension Unlock Items"
+      },
+      "200000035": {
+        "2": "Skip Tickets"
+      },
+      "200000036": {
+        "2": "Under Resort Entry Passes"
+      },
+      "200000037": {
+        "2": "Memoria Enhancement Items"
+      },
+      "200000038": {
+        "2": "Subscription Items"
+      },
+      "200000039": {
+        "2": "Under Resort Revenge Items"
+      },
+      "200000040": {
+        "2": "Costume Refinement Items"
+      },
+      "200000041": {
+        "2": "Equipment Trait Lock Items"
+      },
+      "200000042": {
+        "2": "Daily Gacha Tickets"
+      },
+      "200000043": {
+        "2": "Familia War Medals"
+      },
+      "200000044": {
+        "2": "Familia War Stamina Tickets"
+      },
+      "200000045": {
+        "2": "Familia War Boss Stamina Tickets"
+      },
+      "200000046": {
+        "2": "Under Resort Stamina Tickets"
+      }
+    },
+    "pcSkill": {
+      "109001141": {
+        "1": "Counterattack and Debuff Extension"
+      },
+      "109204911": {
+        "1": "Obligation Chocolat",
+        "2": "[Foes] Ultra Water P.Attack with ultra-high unguard rate and greatly boosted Str. for this attack only; removes Status Buffs and inflicts Sleep. [Self] Restores 30% MP and grants 4 additional actions: [Foes] Strong Water P.Attack with ultra-high unguard rate; restores HP equal to 30% of damage dealt, inflicts Taunt, and inflicts Slow for 1 turn."
+      },
+      "109304936": {
+        "1": "Meow, Meow, Meow",
+        "2": "[Fast] [Self] Agi. and Ailment Resist +30% for 6 turns. [Foes] Agi. and Ailment Resist -30% for 6 turns. [Self] Restores 30% MP and grants 3 additional actions: [Foes] Strong Water P.Attack with ultra-high unguard rate; restores HP equal to 30% of damage dealt, inflicts Taunt for 1 turn, and has a 50% chance to inflict Slow for 1 turn."
+      },
+      "109304937": {
+        "1": "Whip, Step, Jump",
+        "2": "[Fast] [Self] Nullifies 1 P.Attack and 1 M.Attack. Str., Dex., Guard Rate, Water Attack Damage, P.Resist and M.Resist +60%; reduces All Target and Single Target Damage by 60% for 1 turn. Removes Status Debuffs and grants 60% HP Regen for 1 turn."
+      },
+      "109304938": {
+        "1": "Sweet Memory",
+        "2": "[Slow] [Foe] Strong Water P.Attack with ultra-high unguard rate and greatly boosted Str. for this attack only; inflicts Sleep."
+      },
+      "109401827": {
+        "1": "Chocolatier Feerique",
+        "2": "[Foes] Light Resist -10%, Guard Rate and HP Recovery -20%. [Allies] Water Attack Damage, HP Recovery and Ailment Resist +10%; restores 10 MP each turn."
+      },
+      "109401828": {
+        "1": "Chocolatier Feerique+",
+        "2": "[Foes] Light Resist -17%, Guard Rate and HP Recovery -30%. [Allies] Water Attack Damage, HP Recovery and Ailment Resist +17%; restores 15 MP each turn."
+      },
+      "109401829": {
+        "1": "Chocolatier Feerique++",
+        "2": "[Foes] Light Resist -25%, Guard Rate and HP Recovery -40%. [Allies] Water Attack Damage, HP Recovery and Ailment Resist +25%; restores 20 MP each turn."
+      }
+    }
+  }
+}

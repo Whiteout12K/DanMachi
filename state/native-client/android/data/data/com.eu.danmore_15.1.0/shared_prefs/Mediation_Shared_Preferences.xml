@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="general_properties">{&quot;isLimitAdTrackingEnabled&quot;:false,&quot;appVersion&quot;:&quot;15.1.0&quot;,&quot;mobileCarrier&quot;:&quot;Mac.apk&quot;,&quot;tz&quot;:&quot;America\/New_York&quot;,&quot;icc&quot;:&quot;us&quot;,&quot;advertisingId&quot;:&quot;33084978-5388-452c-a944-878d16e2f9fe&quot;,&quot;language&quot;:&quot;en&quot;,&quot;battery&quot;:80,&quot;mcc&quot;:0,&quot;connectionType&quot;:&quot;wifi&quot;,&quot;internalFreeMemory&quot;:255673,&quot;osVersion&quot;:&quot;33(13)&quot;,&quot;appKey&quot;:&quot;c05c80b5&quot;,&quot;firstSession&quot;:&quot;true&quot;,&quot;deviceOEM&quot;:&quot;Voltare&quot;,&quot;auid&quot;:&quot;fb22cc66-34d3-4d8f-b3e5-161b90a78a4c&quot;,&quot;mnc&quot;:0,&quot;deviceOS&quot;:&quot;Android&quot;,&quot;bundleId&quot;:&quot;com.eu.danmore&quot;,&quot;sessionId&quot;:&quot;6f1d6b82-6faa-4c23-ab17-2bbfb7e04e95&quot;,&quot;externalFreeMemory&quot;:255673,&quot;advertisingIdType&quot;:&quot;UUID&quot;,&quot;jb&quot;:&quot;false&quot;,&quot;sdkVersion&quot;:&quot;7.2.2&quot;,&quot;deviceModel&quot;:&quot;Mac.apk&quot;,&quot;gmtMinutesOffset&quot;:-240}</string>
+    <long name="firstSessionTimestamp" value="1791842840444" />
+    <string name="cachedUUID">33084978-5388-452c-a944-878d16e2f9fe</string>
+    <string name="browser_user_agent">Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.0.0 Mobile Safari/537.36</string>
+</map>

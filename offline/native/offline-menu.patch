@@ -1,0 +1,79 @@
+--- org/cocos2dx/lib/Cocos2dxHelper.smali
++++ org/cocos2dx/lib/Cocos2dxHelper.smali
+@@ -1553,37 +1553,15 @@
+ .method public static openURL(Ljava/lang/String;)Z
+     .registers 3
+ 
+-    .line 1
+-    :try_start_0
+-    new-instance v0, Landroid/content/Intent;
+-
+-    const-string v1, "android.intent.action.VIEW"
+-
+-    invoke-direct {v0, v1}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
+-
+-    .line 2
+-    invoke-static {p0}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
+-
+-    move-result-object p0
+-
+-    invoke-virtual {v0, p0}, Landroid/content/Intent;->setData(Landroid/net/Uri;)Landroid/content/Intent;
+-
+-    .line 3
+-    sget-object p0, Lorg/cocos2dx/lib/Cocos2dxHelper;->sActivity:Landroid/app/Activity;
+-
+-    invoke-virtual {p0, v0}, Landroid/app/Activity;->startActivity(Landroid/content/Intent;)V
+-    :try_end_13
+-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_13} :catch_15
+-
+-    const/4 p0, 0x1
+-
+-    goto :goto_16
+-
+-    :catch_15
+-    const/4 p0, 0x0
+-
+-    :goto_16
+-    return p0
++    const-string v0, "Offline information"
++
++    const-string v1, "This button originally opened an online service. Publisher support, official social feeds, and cloud-account transfers are unavailable offline. Your game and player stay on this Mac. For local help, open Gear > Help. To back up or import your player, close the game and use the commands in the DanMachi/User Data folder."
++
++    invoke-static {v0, v1}, Lorg/cocos2dx/lib/Cocos2dxHelper;->showDialog(Ljava/lang/String;Ljava/lang/String;)V
++
++    const/4 v0, 0x1
++
++    return v0
+ .end method
+ 
+ .method public static pauseAllEffects()V
+--- org/cocos2dx/lib/Cocos2dxWebViewHelper.smali
++++ org/cocos2dx/lib/Cocos2dxWebViewHelper.smali
+@@ -369,7 +369,26 @@
+ .method public static loadUrl(ILjava/lang/String;)V
+     .registers 4
+ 
+-    .line 1
++    const-string v0, "http://127.0.0.1:28766/"
++
++    invoke-virtual {p1, v0}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
++
++    move-result v1
++
++    if-nez v1, :cond_12
++
++    invoke-static {p1}, Landroid/net/Uri;->encode(Ljava/lang/String;)Ljava/lang/String;
++
++    move-result-object p1
++
++    const-string v0, "http://127.0.0.1:28766/offline/page?url="
++
++    invoke-virtual {v0, p1}, Ljava/lang/String;->concat(Ljava/lang/String;)Ljava/lang/String;
++
++    move-result-object p1
++
++    .line 1
++    :cond_12
+     sget-object v0, Lorg/cocos2dx/lib/Cocos2dxWebViewHelper;->sCocos2dxActivity:Lorg/cocos2dx/lib/Cocos2dxActivity;
+ 
+     new-instance v1, Lorg/cocos2dx/lib/Cocos2dxWebViewHelper$8;

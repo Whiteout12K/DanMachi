@@ -1,0 +1,143 @@
+{
+  "input_native_sha256": "d4e482b2925aa0b9aad8fd70afc7e26fdcba79ead296c1cb71072279bc6fa246",
+  "changes": [
+    {
+      "offset": "0x2adec34",
+      "before": "ff0302d1f85f04a9",
+      "after": "20008052c0035fd6"
+    },
+    {
+      "offset": "0x2ad8958",
+      "before": "f90f1bf8f85f01a9",
+      "after": "20008052c0035fd6"
+    },
+    {
+      "offset": "0x2ad8e3c",
+      "before": "fc6fbaa9",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics10SetConsentERKNSt6__ndk13mapINS0_11ConsentTypeENS0_13ConsentStatusENS1_4lessIS3_EENS1_9allocatorINS1_4pairIKS3_S4_EEEEEE"
+    },
+    {
+      "offset": "0x2ad92ec",
+      "before": "f70f1cf8",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKcS2_S2_"
+    },
+    {
+      "offset": "0x2ad9738",
+      "before": "e80f19fc",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKcPKNS0_9ParameterEm"
+    },
+    {
+      "offset": "0x2ad9470",
+      "before": "e80f1cfc",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKcS2_d"
+    },
+    {
+      "offset": "0x2ad9724",
+      "before": "427c4093",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKcS2_i"
+    },
+    {
+      "offset": "0x2ad95cc",
+      "before": "f70f1cf8",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKcS2_l"
+    },
+    {
+      "offset": "0x2ad9c78",
+      "before": "f44fbea9",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics25SetSessionTimeoutDurationEl"
+    },
+    {
+      "offset": "0x2ad9cdc",
+      "before": "f30f1ef8",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics18ResetAnalyticsDataEv"
+    },
+    {
+      "offset": "0x2ad9ba4",
+      "before": "f50f1df8",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics9SetUserIdEPKc"
+    },
+    {
+      "offset": "0x2ad972c",
+      "before": "e1031faa",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics8LogEventEPKc"
+    },
+    {
+      "offset": "0x2ad8dd8",
+      "before": "f44fbea9",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics29SetAnalyticsCollectionEnabledEb"
+    },
+    {
+      "offset": "0x2ad9aa0",
+      "before": "f70f1cf8",
+      "after": "c0035fd6",
+      "symbol": "_ZN8firebase9analytics15SetUserPropertyEPKcS2_"
+    },
+    {
+      "offset": "0x35c1e0a",
+      "before": "73616d706c657245787465726e616c4f4553",
+      "after": "73616d706c65723244202020202020202020",
+      "purpose": "Trial CRI shader compatibility; external video texture behavior requires verification"
+    },
+    {
+      "offset": "0x35c1d8b",
+      "before": "23657874656e73696f6e20474c5f4f45535f45474c5f696d6167655f65787465726e616c203a2072657175697265",
+      "after": "20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020",
+      "purpose": "Trial CRI shader compatibility; external video texture behavior requires verification"
+    },
+    {
+      "offset": "0x235ee34",
+      "before": "ff4301d1f51300f9",
+      "after": "20008052c0035fd6",
+      "purpose": "User-requested permanent eligibility for both monthly pass reward tracks; retain monthly goals, categories and claim limits."
+    },
+    {
+      "offset": "0x235ec50",
+      "before": "f44fbea9fd7b01a9",
+      "after": "20008052c0035fd6",
+      "purpose": "Include both completed monthly pass reward tracks in native claim selection, independent of subscription mask; completion state and duplicate-claim checks remain in callers."
+    },
+    {
+      "offset": "0x1ce3fcc",
+      "before": "fd7bbfa9fd030091",
+      "after": "6009805288fbc117",
+      "purpose": "Settings To Title: request save-and-close from launcher instead of hanging in native teardown"
+    },
+    {
+      "offset": "0x19be860",
+      "before": "086444b9",
+      "after": "38814414",
+      "reason": "Grand Day initial map-stage selection and safe Back"
+    },
+    {
+      "offset": "0x2aded40",
+      "before": "810240f94357009063943691e00313aae2031faae4031f2a821a8a97e10300aaa02e07f982bf00f0e4d300f0",
+      "after": "085442f9a9cc9dd28958b5f22900c0f21f0109eb41000054cb7ebb17086444b948000035c87ebb17c07ebb17",
+      "reason": "Grand Day initial map-stage selection and safe Back"
+    },
+    {
+      "offset": "0x1a5d288",
+      "before": "2277fd97",
+      "after": "9e064294",
+      "reason": "Grand Day initial map-stage selection and safe Back"
+    },
+    {
+      "offset": "0x2aded00",
+      "before": "981a8a97e10300aa00ff06f982bf00f0e4d300f04557009042a0259184203891a56c319123018052e00313aa152e8a97",
+      "after": "a8cc9dd28858b5f22800c0f23f0008ebe1000054c85d9bd288aca2f2c821c0f2085802f92800805208bc04b97970bb17",
+      "reason": "Grand Day initial map-stage selection and safe Back"
+    }
+  ],
+  "purpose": "Disable optional Firebase analytics/messaging initialization and telemetry calls; trial CRI sampler shader adaptation. Original input APKs remain untouched; video correctness is unverified. User-requested offline monthly pass reward eligibility.",
+  "patched_native_sha256": "b4d4a14b2884fde79af302c0f77f7a7f0dac99982964dd5c5469b3b301c8e9ce"
+}

@@ -1,0 +1,1 @@
+This is an independent Mac.apk compatibility experiment. Never modify the Google Drive original. Read CURRENT_SETUP.md. Preserve original APK hashes, ZIP-only media and the copied save. Do not claim it works until actual gameplay is verified. No emulator, system image, ADB or scrcpy may be introduced here.

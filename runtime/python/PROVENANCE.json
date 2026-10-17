@@ -1,0 +1,1 @@
+{"source":"https://github.com/astral-sh/python-build-standalone/releases/tag/20261009","version":"CPython 3.10.22, Apple Silicon install_only_stripped","sha256":"056952e8ee266df0dc4e595a88a0d691efe0d6af7cd9e772b89e5efd276ead79","excluded":"pip, developer headers, tests, tkinter; no external Python required"}

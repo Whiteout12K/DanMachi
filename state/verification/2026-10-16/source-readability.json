@@ -1,0 +1,56 @@
+{
+  "pythonFilesCompared": 101,
+  "changedExecutableTrees": [
+    "offline/test_event_item_icons.py",
+    "offline/test_zip_reader.py"
+  ],
+  "explainedPythonChange": "Two fixture-isolation fixes: test_event_item_icons copies the cached source dictionary; test_zip_reader clears virtual catalog caches before each fixture. No production logic changed in the readability pass.",
+  "documentedFunctionsAndClasses": 244,
+  "nativeJavaFilesCompared": 15,
+  "nativeJavaTokenChanges": [],
+  "shellScripts": 4,
+  "brokenGuideLinks": [],
+  "sourceGuide": "docs/05-source-guide.md",
+  "focusedFeatureChecks": {
+    "count": 64,
+    "passed": true
+  },
+  "launcherChecks": {
+    "count": 10,
+    "passed": true
+  },
+  "broadOfflineDiscovery": {
+    "entries": 173,
+    "errors": 21,
+    "errorCases": [
+      "test_extracted_copy_is_reported (test_asset_layout.LayoutTests)",
+      "test_only_manifests_and_metadata_are_allowed (test_asset_layout.LayoutTests)",
+      "test_audio_volume (unittest.loader._FailedTest)",
+      "test_idle_connection_daemon_is_released (test_connection_release.ConnectionReleaseTest)",
+      "test_live_device_keeps_connection_daemon (test_connection_release.ConnectionReleaseTest)",
+      "test_shutdown_waits_for_connection_to_disappear (test_connection_release.ConnectionReleaseTest)",
+      "test_stop_also_cleans_helpers_when_android_is_already_gone (test_connection_release.ConnectionReleaseTest)",
+      "test_matching_marker_allows_profile_preparation (test_disk_guard.DiskGuardTests)",
+      "test_missing_or_wrong_version_never_starts_android (test_disk_guard.DiskGuardTests)",
+      "test_boot_retries_recovery_after_android_service_restart (test_game_reopen.ReopenTests)",
+      "test_existing_home_needs_no_extra_launch (test_game_reopen.ReopenTests)",
+      "test_healthy_profile_does_not_start_fallback_activity (test_game_reopen.ReopenTests)",
+      "test_locked_profile_restores_support_and_starts_direct_boot_activity (test_game_reopen.ReopenTests)",
+      "test_stopped_game_home_is_resolved_after_explicit_launch (test_game_reopen.ReopenTests)",
+      "test_verified_persistent_profile_skips_system_package_changes (test_game_reopen.ReopenTests)",
+      "test_profile_repack (unittest.loader._FailedTest)",
+      "test_legacy_attack_repair_preserves_training_and_does_not_repeat (test_save_store.PersistentAccountTest)",
+      "test_pc_checksum_matches_observed_original_client (test_save_store.PersistentAccountTest)",
+      "test_session_shutdown (unittest.loader._FailedTest)",
+      "test_startup_cache (unittest.loader._FailedTest)",
+      "test_storage_maintenance (unittest.loader._FailedTest)"
+    ],
+    "scope": "Historical removed-helper APIs/modules and absent native checksum fixtures; detailed in docs/05-source-guide.md."
+  },
+  "formattingChecksPassed": true,
+  "shellSyntaxAndExecutableLinesVerified": 4,
+  "bundleIntegrity": "Six original APK hashes, seven archive sizes and folder-local link checks passed",
+  "runtimeOrSavePathsMoved": false,
+  "testFixturesInRealSave": false,
+  "nativeScope": "Averies reopened at Home. No gameplay action performed; coordinate clicks returned noWindowsAvailable."
+}

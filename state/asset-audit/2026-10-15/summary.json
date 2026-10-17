@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-15",
+  "folders_checked": 14088,
+  "errors": [],
+  "collections": [
+    {
+      "folder_id": "1xqzfdevOO7ph1ppck9t8TiwzJVXpr4Yb",
+      "files": 262956,
+      "folders": 13389,
+      "missing_layout_found": false
+    },
+    {
+      "folder_id": "163YqytPHOwPkDMGbf5hxmdoTWHBA4U3d",
+      "rar_volumes": 6,
+      "unique_archive_paths": 276344,
+      "archive_files": 262954,
+      "missing_layout_found": false
+    },
+    {
+      "folder_id": "1LEu0_BIQSdbJxAql0ilUpIYArvuAzxip",
+      "files": 6919,
+      "folders": 697,
+      "missing_layout_found": false
+    }
+  ],
+  "required_asset": "3/files/ui_atlas/home_quest/event_map.json",
+  "apk": {
+    "entries": 1952,
+    "size": 80881609,
+    "md5": "c8a4c1639eb46339442b0ed8f77653fc",
+    "same_in_both_backups": true,
+    "event_map_files": 0
+  },
+  "archive_verification": "CRC-validated all RAR5 Quick Open cached headers, then read and parsed every gap between those headers across all six volumes; no gaps or read errors remain. Full paginated Drive v3 public listings, not first-page HTML listings.",
+  "result": "First and second contents file path sets are identical except first folder additionally includes APK and Directory.txt. Required legacy map absent from all three. No game changes made."
+}

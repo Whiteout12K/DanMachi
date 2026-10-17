@@ -1,0 +1,22 @@
+{
+  "method": "Original APK AES-CBC and XXTEA decoding of CRC/MD5-verified retained FlatBuffers tables",
+  "decoderApkSHA256": "e20d782dc9e603b714407155fc77c987a021c0c7bdeabccf6d4cf37c6b6d1295",
+  "stages": 21524,
+  "pcs": 1368,
+  "achievements": 42429,
+  "originalTaskRewardsValidated": 43362,
+  "outputs": {
+    "master-rewards.json": {
+      "bytes": 2754592,
+      "sha256": "bf936dfa564e0e0334404f51d2290697fd6e4279ed1f684cc7bbf3db6aeda09a"
+    },
+    "master-pc-attacks.json": {
+      "bytes": 73882,
+      "sha256": "28a4775ce6ee480a34684b547d544ac756a29c1de7d08a016dd93f69433fb6dc"
+    },
+    "master-achievement-rewards.json": {
+      "bytes": 1954363,
+      "sha256": "73face3566daf0462631b6bf12f66a0b7cc3e86b6143cd8b160fd09fc9ac5c0a"
+    }
+  }
+}

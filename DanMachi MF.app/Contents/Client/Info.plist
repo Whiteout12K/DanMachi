@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>DanMachi Mac Trial</string>
+	<key>CFBundleExecutable</key>
+	<string>Launch</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.macapk.app.com.eu.danmore-15.1.0</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>DanMachi Mac Trial</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>15.1.0</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>com.eu.danmore</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.eu.danmore</string>
+				<string>fbconnect</string>
+				<string>intent</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>170316722</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>26.4</string>
+	<key>LSMultipleInstancesProhibited</key>
+	<true/>
+	<key>MacapkDirName</key>
+	<string>com.eu.danmore_15.1.0</string>
+	<key>MacapkGeneratedBy</key>
+	<string>261006.1448-f5c703b8</string>
+	<key>MacapkPackage</key>
+	<string>com.eu.danmore</string>
+	<key>MacapkUrlSchemes</key>
+	<string>com.eu.danmore fbconnect intent</string>
+	<key>MacapkVersionCode</key>
+	<string>170316722</string>
+	<key>MacapkVersionName</key>
+	<string>15.1.0</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting Bluetooth access.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting camera access.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting local network access.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting your location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting microphone access.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting photo library access.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>DanMemoRe is an Android app running in Mac.apk and is requesting speech recognition.</string>
+</dict>
+</plist>

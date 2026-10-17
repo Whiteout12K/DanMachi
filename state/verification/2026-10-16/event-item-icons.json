@@ -1,0 +1,25 @@
+{
+  "eventItemCount": 781,
+  "variantsPerItem": [
+    "frame",
+    "noframe"
+  ],
+  "retainedIconPaths": 128,
+  "addedIconPathsByKind": {
+    "generic": 1174,
+    "same-name": 260
+  },
+  "genericFallback": "1/files/icon/key_item/0_{}.png",
+  "preservesExistingArt": true,
+  "readsOriginalZipWithoutExtraction": true,
+  "nativeUiVerified": {
+    "GrandDayPreviouslyBlankSidebarIcons": true,
+    "OrionSagaExistingIconsPreserved": true
+  },
+  "nativeUiScope": "Representative screens verified; all 781 items covered by virtual-path, CRC and PNG checks, not individual screen visits.",
+  "tests": {
+    "focusedSuite": 57,
+    "archiveReader": 4,
+    "bundleIntegrity": "passed"
+  }
+}

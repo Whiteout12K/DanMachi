@@ -1,0 +1,10 @@
+{
+  "originalSaveUnchangedDuringQA": true,
+  "realSaveSha256BeforeReopening": "9b5aa52271109abd1c9f6be3c88edea1821f0702411f4cc1d6b92bd5d9d50cbb",
+  "dummyAccountImported": false,
+  "nativeTicketDrawsPerformed": false,
+  "qaRemoved": true,
+  "ticketTypesCoveredByAutomatedDrawChecks": 261,
+  "permanentTicketBanners": 274,
+  "nativeAllTicketVerification": "Not completed; user requested ending dummy testing."
+}
