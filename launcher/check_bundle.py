@@ -80,6 +80,8 @@ def check():
         if path.stat().st_size != item["bytes"]:
             raise ValueError("Archive size changed: " + item["file"])
     required = (
+        "offline/english_presentation.py",
+        "offline/english-text.json",
         "runtime/python/bin/python3.10",
         "runtime/Mac.apk.app/Contents/Resources/macapk-runtime",
         "runtime/DanMachi MF.app/Contents/MacOS/macapk-runtime",

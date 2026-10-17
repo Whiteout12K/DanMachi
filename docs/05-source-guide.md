@@ -88,6 +88,14 @@ live server save. Historical build/storage/account tools can write files when ru
 | [tools/maintain.py](../tools/maintain.py) | Maintenance entry point: inspect account/banner summaries, validate packaging, or run focused test groups. SUITES defines the supported feature checks. Test subprocesses use a full Python installation and temporary fixtures, not the bundled minimal runtime. | `python3 tools/maintain.py test all` |
 | [tools/audit_movies.py](../tools/audit_movies.py) | Retained movie audit: stream archived USM data through diagnostics and collect decode evidence. This checks retained media without replacing the native movie player. Codec success alone does not prove in-game audio, orientation or Skip behavior. | `docs/04-verification.md` |
 
+## English label maintenance
+
+- [english_presentation.py](../offline/english_presentation.py): English display lookups, encrypted native string-vector overlays and matching virtual-file sizes. It does not replace artwork.
+- [english-text.json](../offline/english-text.json): explicit English display strings; preserve row IDs and field numbers.
+- [test_english_presentation.py](../offline/test_english_presentation.py): display-pointer isolation, playable-unit labels/skills, unchanged draw definitions, native sizes, artwork and voice preservation.
+
+See [the English label recipe](03-feature-recipes.md#english-display-labels) for the workflow and retained-artwork limits. The new generated English texture cards and their tools were removed at the user's request; earlier event-item icon aliases remain.
+
 ## Native adapters and Java helpers
 
 These are editable source files. Their `.dylib`, `.jar`, and executable counterparts

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <boolean name="measurement_enabled_from_api" value="true" />
-    <long name="last_upload" value="1792200280984" />
+    <long name="last_upload" value="1792202025468" />
     <long name="first_open_time" value="1791841933566" />
     <string name="gmp_app_id">1:149510514943:android:fa374355ee0e1c1a</string>
     <string name="app_instance_id">04bab2dee7446d5418e89433ca820739</string>
@@ -16,8 +16,8 @@
     <boolean name="has_been_opened" value="true" />
     <string name="health_monitor:value">2Ec79000:Upload called in the client side when service should be used</string>
     <boolean name="allow_remote_dynamite" value="true" />
-    <long name="last_pause_time" value="1792201048449" />
+    <long name="last_pause_time" value="1792202025434" />
     <long name="midnight_offset" value="34695814" />
     <boolean name="start_new_session" value="false" />
-    <long name="health_monitor:count" value="18" />
+    <long name="health_monitor:count" value="20" />
 </map>

@@ -662,6 +662,8 @@ def unit_metadata():
     """Read original English unit names and rarity from the retained PC master."""
     import rebuild_master as m
 
+    from english_presentation import display_name
+
     b = m.table("pc")
     wanted = {pc for pool in definitions()["groups"].values() for pc in pool}
     units = {}
@@ -670,7 +672,7 @@ def unit_metadata():
         if pc in wanted:
             units[pc] = {
                 "name": m.text(b, row, 2),
-                "title": m.text(b, row, 1),
+                "title": display_name("pc", pc, m.text(b, row, 1), 1),
                 "rarity": m.scalar(b, row, 46),
             }
     if any(u["rarity"] not in (1, 2, 3, 4) for u in units.values()):

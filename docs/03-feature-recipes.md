@@ -54,3 +54,19 @@ The aliases are registered by [offline/zip_reader.py](../offline/zip_reader.py).
 ## Matching ticket banners
 
 All 261 original ticket types are covered by permanent matching choices in [offline/gacha_rotation.py](../offline/gacha_rotation.py). Ticket access is additional to the Iris/event rotation. Costs, ticket IDs, original pools and draw counts come from [offline/build_gacha.py](../offline/build_gacha.py). Preserve distinct pool choices when deduplicating historical copies. [offline/gacha_ticket_access.py](../offline/gacha_ticket_access.py) supplies native validity compatibility and fallback banner art through virtual ZIP assets. Server ticket draws have no offline expiry or per-account draw cap while tickets remain. Native validity uses its maximum positive signed duration. Reenter Gacha after receiving a ticket; restart after changing cached masters. Run `python3 -B tools/maintain.py test gacha`. Automated consumption checks cover every type; complete native verification of the expanded lineup is still pending.
+
+## English display labels
+
+[english_presentation.py](../offline/english_presentation.py) composes English display strings after the existing availability and ticket-validity overlays. [english-text.json](../offline/english-text.json) maps original table/row/column identities to English labels. It changes display strings only: IDs, aliases, skill effects, costs, pools, save rows, artwork and voices retain their existing sources. Some historical menu titles use descriptive English labels rather than recovered official translations.
+
+The overlay appends encrypted replacement string vectors and changes only their relative pointers, then encrypts the native table. Existing records and scalar fields do not move. `zip_reader.py` advertises the new byte sizes and serves the same bytes. Gacha Details uses the same English names as the native master.
+
+Edit the explicit label entries, then run:
+
+```sh
+python3 tools/maintain.py test english
+python3 tools/maintain.py test gacha
+python3 tools/maintain.py check
+```
+
+The generated English image cards were removed at the user's request. No English artwork replacement layer is active. Retained artwork can contain Japanese text; this text-label overlay does not translate baked-in image text, movies, or shared animation sheets. The earlier distinct event-item icon aliases remain as requested separately.

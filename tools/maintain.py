@@ -18,6 +18,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 SUITES = {
+    "english": ("offline", "test_english_presentation.py"),
     "gacha": ("offline", "test_gacha*.py"),
     "boxes": ("offline", "test_event_box.py"),
     "events": (

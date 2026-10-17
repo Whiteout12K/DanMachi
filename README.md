@@ -1,6 +1,11 @@
 # DanMachi MF — local Mac game
 
+You can download this entire folder and place anywhere to begin running. First, get the asset folder from here: https://drive.google.com/drive/folders/1auLj0PCKUvfE0UD8jV6x4Yce4YXInMYY?usp=sharing. You should place it right inside this entire DanMachi folder (not anywhere else in the folder but only at the top level directory) and the game will recognize it. You MUST have these assets as they are the game visuals and sounds.
+
 Start the game with **Launch DanMachi.command**. Close it with Settings → To Title to save and exit.
+
+Simply double click DanMachi MF application to start.
+
 
 ## Learn and edit
 
@@ -22,6 +27,7 @@ python3 tools/maintain.py status
 python3 tools/maintain.py banners
 python3 tools/maintain.py banners --date 2026-10-17
 python3 tools/maintain.py check
+python3 tools/maintain.py test english
 python3 tools/maintain.py test gacha
 python3 tools/maintain.py test boxes
 python3 tools/maintain.py test events

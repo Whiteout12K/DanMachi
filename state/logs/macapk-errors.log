@@ -1,7 +1,6 @@
-[W] Mac.apk.Resources: framework view disk write failed (java.io.FileNotFoundException: /Users/kennycalhoun/Library/Caches/MacApk/fwview/fw-df1810fc22e07e1e-3138548c1e42aa9c.fv.tmp.48236 (Operation not permitted)); the live view is unaffected
+[W] Mac.apk.Resources: framework view disk write failed (java.io.FileNotFoundException: /Users/kennycalhoun/Library/Caches/MacApk/fwview/fw-df1810fc22e07e1e-3138548c1e42aa9c.fv.tmp.56951 (Operation not permitted)); the live view is unaffected
 [W] Mac.apk.GMS: PlatformSignature: generated a platform certificate but could not persist it: java.nio.file.FileAlreadyExistsException: /Users/kennycalhoun/Library/Application Support/Mac.apk/gms -- it will differ on the next launch
 [W] Mac.apk.GMS: GmsStore: could not write /Users/kennycalhoun/Library/Application Support/Mac.apk/gms/gms_state.properties: java.nio.file.FileAlreadyExistsException: /Users/kennycalhoun/Library/Application Support/Mac.apk/gms
 [interp-klass] CLASS = com/ironsource/mediationsdk/utils/ErrorBuilder (len=46)
 [cocos2d-x debug info] ActionEase::startWithTarget error: target or _inner is nullptr!
 [cocos2d-x debug info] ActionEase::startWithTarget error: target or _inner is nullptr!
-[W] Context: Activity net.wrightflyer.toybox.AppActivity has leaked IntentReceiver net.wrightflyer.cocos2dx.network.Reachability$NetworkChangeReceiver@4c6730a7 that was originally registered here. Are you missing a call to unregisterReceiver()?

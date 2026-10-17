@@ -4,7 +4,7 @@ Updated 16 October 2026. This page summarizes current work; the detailed history
 
 ## Automated checks
 
-`python3 tools/maintain.py test all` runs 64 focused checks across Gacha, reward boxes, anniversary data, event schedules, native dispatch and monthly gates, save updates and inventory transactions. All passed after the icon distinction and readability changes. The complete launcher test directory also passes 10 checks. Tests use temporary saves.
+`python3 tools/maintain.py test all` contains 69 focused checks across English display labels, Gacha, reward boxes, anniversary data, event schedules, native dispatch/monthly gates, save updates and inventory transactions. The previous 64-check feature set passed after the icon/readability changes; English-label and restored-artwork checks are recorded separately in the latest maintenance evidence. The complete launcher test directory also passed 10 checks. Tests use temporary saves.
 
 The readability audit compares 101 Python syntax trees (production logic unchanged), 15 native/Java token streams (unchanged), and four shell scripts. Formatting and guide-link checks pass. Broad offline discovery also includes historical checks for removed device helpers and two missing checksum-fixture cases; see [the source guide](05-source-guide.md#historical-test-limits) for their scope. Final broad discovery ran 173 entries and reported 21 historical missing-helper/fixture errors; current icon and ZIP fixture checks pass within that run. It is not a clean all-green gate.
 
@@ -14,6 +14,7 @@ The readability audit compares 101 Python syntax trees (production logic unchang
 
 | Area | Current behavior | Evidence and limits |
 | --- | --- | --- |
+| English display labels | English text overlays only; original artwork restored | Nine display tables cover 698 translated/descriptive rows. New English texture cards were removed at the user's request. Japanese text baked into retained artwork is not translated; voices and earlier event-item icon aliases remain. |
 | Grand Day | Enters its retained Orario map-stage controller directly | Fresh entry renders the location/background, event counters, Exchange/Gacha and Normal/Hard/Very Hard tabs. Native difficulty switching, Back/re-entry and Gacha open/return verified without another battle. Original stages, unlocks and rewards are preserved. |
 | Standard 4★ tickets | Permanent retained banner 171002222 consumes ticket 296000003 | Native pull verified in an isolated QA copy: one ticket consumed, 4★ Alfrik Gulliver received, operation 400000012 acknowledged. Temporary-save retry tests also pass. Ticket ownership controls native visibility. |
 | Daily Gacha rotation | Calendar-month master includes future daily pairs | Every-day date/window tests and next-day acceptance/expired-day rejection pass. Reenter Gacha after a UTC day boundary; reopen at a month boundary. Native rollover while the screen stays open is not claimed. |

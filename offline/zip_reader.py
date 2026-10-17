@@ -308,18 +308,12 @@ def asset(path):
         MASTER_PREFIX,
         text_policy,
         master_asset as english_master,
-        image_asset,
     )
 
     if path.startswith(MASTER_PREFIX) and path.endswith(".enc"):
         name = path[len(MASTER_PREFIX) : -4]
         if name in text_policy():
             return english_master(name)
-    record = catalog().get(path)
-    if record:
-        english_image = image_asset(record)
-        if english_image is not None:
-            return english_image
     from anniversary_events import (
         MASTER,
         STAGE_MASTER,

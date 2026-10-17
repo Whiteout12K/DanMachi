@@ -1,245 +1,107 @@
-4-shim] stat #35 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
-[arm64-shim] stat #36 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
-[arm64-shim] stat #37 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
-[chatty] tid 12328821 identical 1 line (tag CK)
-[arm64-shim] fopen #4494 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4495 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4496 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4497 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4498 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4499 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4500 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4501 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4502 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4503 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4504 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4505 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4506 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4507 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4508 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
-[arm64-shim] fopen #4509 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
-[arm64-shim] stat #38 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/" -> fail
+ents/1/files/sound/bgm/bgm_town_gacha_top.ogg" -> ok
+[arm64-shim] stat #28 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_gacha_top.ogg" -> ok
+[chatty] tid 12440662 identical 1 line (tag CK)
+[heartbeat-diff] changed=0/10 heartbeat frames rows=0
+[I] frame heartbeat #8 frame=60
+[I] fps: 17.9
+[I] frame heartbeat #9 frame=0
+[arm64-shim] fopen #4416 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lottery/background/171001595.png" -> NULL [disp=0]
+[arm64-shim] fopen #4419 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lottery/background/171000529.png" -> NULL [disp=0]
+[arm64-shim] fopen #4422 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lottery/background/171000530.png" -> NULL [disp=0]
+[arm64-shim] fopen #4425 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lottery/background/171000534.png" -> NULL [disp=0]
+[arm64-shim] fopen #4428 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lottery/background/171000533.png" -> NULL [disp=0]
+[arm64-shim] stat #29 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
+[arm64-shim] stat #30 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
+[arm64-shim] stat #31 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/sound/bgm/bgm_town_orario_daytime.ogg" -> ok
+[chatty] tid 12440662 identical 1 line (tag CK)
+[arm64-shim] fopen #4432 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4433 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4434 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4435 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4436 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4437 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4438 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4439 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/global/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4440 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4441 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4442 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4443 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/quest/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4444 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4445 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4446 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4447 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/home_other/textures.2.plist" -> NULL [disp=0]
+[arm64-shim] stat #32 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/" -> fail
 [cocos2d-x debug info] ActionEase::startWithTarget error: target or _inner is nullptr!
 
-[focus] NSWindowDidResignKeyNotification: active=0 keyWindow=none front=ChatGPT (pid 38160, self 48236)
-[focus] NSApplicationDidResignActiveNotification: active=0 keyWindow=none front=ChatGPT (pid 38160, self 48236)
-[I] fps: 24.2
-[present] window hidden (occlusion; isVisible=1 occlusionState=8192) -> throttling present to 2.0 Hz
-[I] fps: 10.8
-[present] window visible again (occlusion) -> full-rate present resumed
-[I] fps: 19.7
-[arm64-shim] memory-pressure WARN: pressure_relief + 0 B quarantine flushed
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[choreo] fire #3000 moved=0 loopers=12
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #2400 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #2400 (g_init=1, surface=0x1)
-[CK] CK WARNING: Audio rendering is taking too long (18.051584 ms); some sounds will not be played.
+[arm64-shim] fopen #4466 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lwf/uiLwf/loading/lwf_loading_type_center_04/lwf_loading_type_center_04.lwf" -> NULL [disp=0]
+[arm64-shim] fopen #4469 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/lwf/uiLwf/loading/lwf_loading_type_center_04/lwf_loading_type_center_velf.png" -> NULL [disp=0]
+[I] fps: 24.4
+[arm64-shim] fopen #4472 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/home_other/other_top.json" -> NULL [disp=0]
+[arm64-shim] fopen #4475 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4476 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4477 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4478 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4479 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/global/modal_other_tittle.json" -> NULL [disp=0]
+[arm64-shim] fopen #4482 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/cache/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4483 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/1/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4484 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/area_atlas_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[arm64-shim] fopen #4485 "/Users/kennycalhoun/Library/CloudStorage/GoogleDrive-kennyecalhoun@gmail.com/My Drive/Hobbies/DanMachi/state/native-client/android/data/data/com.eu.danmore_15.1.0/files/contents/single_image_root/files/ui_atlas/common/textures.1.plist" -> NULL [disp=0]
+[I] angle: AngleBeginFrame call #600 tid=12440662 makeCurrent=1 ctx=0x1
+[I] angle: AngleEndFrame call #600 (g_init=1, surface=0x1)
 
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[present] window hidden (occlusion; isVisible=1 occlusionState=8192) -> throttling present to 2.0 Hz
-[I] fps: 15.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.imei.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.oaid.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.sig.Signer) -> ClassNotFound
-[I] fps: 1.9
-[present] window visible again (occlusion) -> full-rate present resumed
-[CK] CK WARNING: Audio rendering is taking too long (9.529042 ms); some sounds will not be played.
-
-[I] fps: 10.2
-[choreo] fire #3600 moved=0 loopers=12
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #3000 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #3000 (g_init=1, surface=0x1)
-[present] window hidden (occlusion; isVisible=1 occlusionState=8192) -> throttling present to 2.0 Hz
-[I] fps: 20.3
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[present] window visible again (occlusion) -> full-rate present resumed
-[I] fps: 10.6
-[choreo] fire #4200 moved=0 loopers=12
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #3600 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #3600 (g_init=1, surface=0x1)
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[choreo] fire #4800 moved=0 loopers=12
-[I] fps: 25.0
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #4200 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #4200 (g_init=1, surface=0x1)
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[choreo] fire #5400 moved=0 loopers=12
-[I] fps: 25.0
-[I] fps: 25.0
-[frame-score] src=canvas verdict=BLANK distinct=8 modal=#000000 modal_share=82.4% coverage=17.6% edges=0.31% cells=4/16 top_row=4 size=1134x638
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #4800 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #4800 (g_init=1, surface=0x1)
-[choreo] fire #6000 moved=0 loopers=12
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.imei.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.oaid.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.sig.Signer) -> ClassNotFound
-[I] fps: 25.0
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[choreo] fire #6600 moved=0 loopers=12
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #5400 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #5400 (g_init=1, surface=0x1)
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[choreo] fire #7200 moved=0 loopers=12
-[I] fps: 25.0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #6000 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #6000 (g_init=1, surface=0x1)
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[choreo] fire #7800 moved=0 loopers=12
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #6600 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #6600 (g_init=1, surface=0x1)
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[choreo] fire #8400 moved=0 loopers=12
-[I] fps: 25.0
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 25.0
-[I] angle: AngleBeginFrame call #7200 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #7200 (g_init=1, surface=0x1)
-[I] fps: 25.0
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[choreo] fire #9000 moved=0 loopers=12
-[present] window hidden (occlusion; isVisible=1 occlusionState=8192) -> throttling present to 2.0 Hz
-[I] fps: 18.2
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[CK] CK WARNING: Audio rendering is taking too long (11.726750 ms); some sounds will not be played.
-
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.imei.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.oaid.Util) -> ClassNotFound
-[W] Mac.apk.AppCl: findClass(com.adjust.sdk.sig.Signer) -> ClassNotFound
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] angle: AngleBeginFrame call #7800 tid=12328821 makeCurrent=1 ctx=0x1
-[I] angle: AngleEndFrame call #7800 (g_init=1, surface=0x1)
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[choreo] fire #9600 moved=0 loopers=12
-[heartbeat-diff] changed=0/10 heartbeat frames rows=0
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[I] fps: 1.9
-[present] window visible again (occlusion) -> full-rate present resumed
-[focus] NSWindowDidBecomeKeyNotification: active=1 keyWindow=none front=DanMachi MF (pid 48236, self 48236)
-[focus] NSApplicationDidBecomeActiveNotification: active=1 keyWindow=yes front=DanMachi MF (pid 48236, self 48236)
-[macapk] runtime window closed by user; exiting cleanly
-[quit] begin wall=1792201048435 group=1 main=1
-[focus] NSWindowDidResignKeyNotification: active=1 keyWindow=none front=DanMachi MF (pid 48236, self 48236)
-[quit] +window off screen (1 window(s)) wall=1792201048453
-[W] Context: Activity net.wrightflyer.toybox.AppActivity has leaked IntentReceiver net.wrightflyer.cocos2dx.network.Reachability$NetworkChangeReceiver@4c6730a7 that was originally registered here. Are you missing a call to unregisterReceiver()?
-[quit] +21ms android teardown returned
-[quit] +21ms killed 0 app-owned forked process(es)
-[quit] +21ms _exit(0)
-firebase:**** android create app
+=== [macapk] guest _exit(75) on thread "?" -- process terminating; backtrace: ===
+  [ 2] guest+0x1ded818 (base=0x496100000 ra=0x497eed818)
+  [ 3] guest+0x1ddf0d4 (base=0x496100000 ra=0x497edf0d4)
+  [ 4] guest+0x21f8234 (base=0x496100000 ra=0x4982f8234)
+  [ 5] guest+0x22bd788 (base=0x496100000 ra=0x4983bd788)
+  [ 6] guest+0x2dd0420 (base=0x496100000 ra=0x498ed0420)
+  [ 7] guest+0x2dbd030 (base=0x496100000 ra=0x498ebd030)
+  [ 8] guest+0x2dbf030 (base=0x496100000 ra=0x498ebf030)
+0   libmacapk-bionic-shim.dylib         0x000000011f4561f8 _ZL22macapk_log_native_exitPKci + 208
+1   libmacapk-bionic-shim.dylib         0x000000011f45633c __macapk_arm64__exit + 32
+2   ???                                 0x0000000497eed818 0x0 + 19728881688
+3   ???                                 0x0000000497edf0d4 0x0 + 19728822484
+4   ???                                 0x00000004982f8234 0x0 + 19733119540
+5   ???                                 0x00000004983bd788 0x0 + 19733927816
+6   ???                                 0x0000000498ed0420 0x0 + 19745539104
+7   ???                                 0x0000000498ebd030 0x0 + 19745460272
+8   ???                                 0x0000000498ebf030 0x0 + 19745468464
+9   ???                                 0x000000012a5f32e0 0x0 + 5005849312
+10  ???                                 0x00000001235c4eb4 0x0 + 4888219316
+11  libjvm.dylib                        0x0000000106ae967c _ZN9JavaCalls11call_helperEP9JavaValueRK12methodHandleP17JavaCallArgumentsP10JavaThread + 580
+12  libjvm.dylib                        0x0000000106b446e8 _ZL20jni_invoke_nonstaticP7JNIEnv_P9JavaValueP8_jobject11JNICallTypeP10_jmethodIDP18JNI_ArgumentPusherP10JavaThread + 632
+13  libjvm.dylib                        0x0000000106b48158 jni_CallVoidMethodV + 208
+14  libmacapk-bionic-shim.dylib         0x000000011f4c3850 macapk_jni_CallVoidMethodV_shim + 360
+15  macapk-runtime                      0x00000001044383cc _ZN7JNIEnv_14CallVoidMethodEP8_jobjectP10_jmethodIDz + 36
+16  macapk-runtime                      0x000000010443fa70 -[MacApkV2RenderDelegate drawInMTKView:] + 14540
+17  MetalKit                            0x000000019e188588 -[MTKView draw] + 268
+18  MetalKit                            0x000000019e18845c __23-[MTKView __initCommon]_block_invoke + 40
+19  libdispatch.dylib                   0x0000000187e714b0 _dispatch_client_callout + 16
+20  libdispatch.dylib                   0x0000000187e5c1c8 _dispatch_continuation_pop + 596
+21  libdispatch.dylib                   0x0000000187e6f1b0 _dispatch_source_latch_and_call + 392
+22  libdispatch.dylib                   0x0000000187e6de84 _dispatch_source_invoke + 844
+23  libdispatch.dylib                   0x0000000187e8f314 _dispatch_main_queue_drain.cold.6 + 612
+24  libdispatch.dylib                   0x0000000187e669e4 _dispatch_main_queue_drain + 176
+25  libdispatch.dylib                   0x0000000187e66924 _dispatch_main_queue_callback_4CF + 44
+26  CoreFoundation                      0x000000018810d754 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 16
+27  CoreFoundation                      0x00000001880cfce8 __CFRunLoopRun + 1944
+28  CoreFoundation                      0x00000001881a2264 _CFRunLoopRunSpecificWithOptions + 532
+29  HIToolbox                           0x0000000194ebb560 RunCurrentEventLoopInMode + 320
+30  HIToolbox                           0x0000000194ebe8bc ReceiveNextEventCommon + 488
+31  HIToolbox                           0x000000019504814c _BlockUntilNextEventMatchingListInMode + 48
+32  AppKit                              0x000000018cbb23d0 _DPSBlockUntilNextEventMatchingListInMode + 228
+33  AppKit                              0x000000018c506084 _DPSNextEvent + 576
+34  AppKit                              0x000000018d09b96c -[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 688
+35  AppKit                              0x000000018d09b678 -[NSApplication(NSEventRouting) nextEventMatchingMask:untilDate:inMode:dequeue:] + 72
+36  AppKit                              0x000000018c4f913c -[NSApplication run] + 368
+37  macapk-runtime                      0x000000010442ce60 _ZN6macapk12CocoaRunLoopEv + 848
+38  ???                                 0x0000000129ce49c8 0x0 + 4996352456
+39  ???                                 0x0000000129ce117c 0x0 + 4996338044
+40  ???                                 0x0000000129cdc154 0x0 + 4996317524
+41  libjvm.dylib                        0x0000000106ae967c _ZN9JavaCalls11call_helperEP9JavaValueRK12methodHandleP17JavaCallArgumentsP10JavaThread + 580
+42  libjvm.dylib                        0x0000000106b4b4a8 _ZL17jni_invoke_staticP7JNIEnv_P9JavaValueP8_jobject11JNICallTypeP10_jmethodIDP18JNI_ArgumentPusherP10JavaThread + 184
+43  libjvm.dylib                        0x0000000106b4e20c jni_CallStaticVoidMethodV + 200
+44  macapk-runtime                      0x0000000104351658 _ZN7JNIEnv_20CallStaticVoidMethodEP7_jclassP10_jmethodIDz + 36
+45  macapk-runtime                      0x0000000104348598 main + 28128
+46  dyld                                0x0000000187c484e4 start + 6992
+=== end _exit backtrace ===

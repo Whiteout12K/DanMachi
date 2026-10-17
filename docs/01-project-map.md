@@ -38,6 +38,7 @@ Launch DanMachi.command
 | Saves | [offline/save_store.py](../offline/save_store.py) | [test_save_updates.py](../offline/test_save_updates.py), [test_inventory_transactions.py](../offline/test_inventory_transactions.py) |
 | Banners and tickets | [offline/gacha_rotation.py](../offline/gacha_rotation.py) | [gacha.py](../offline/gacha.py), [build_gacha.py](../offline/build_gacha.py), `test_gacha*.py` |
 | Monthly events | [offline/guild_events.py](../offline/guild_events.py) | [guild_quests.py](../offline/guild_quests.py) |
+| English display labels | [offline/english_presentation.py](../offline/english_presentation.py) | [english-text.json](../offline/english-text.json), [test_english_presentation.py](../offline/test_english_presentation.py) |
 | Event item artwork | [offline/event_item_icons.py](../offline/event_item_icons.py) | [offline/test_event_item_icons.py](../offline/test_event_item_icons.py) |
 | Anniversary stories | [offline/anniversary_events.py](../offline/anniversary_events.py) | [launcher/grand_day_stage_list.py](../launcher/grand_day_stage_list.py) |
 | Anniversary reward boxes | [offline/event_box.py](../offline/event_box.py) | [test_event_box.py](../offline/test_event_box.py) |
